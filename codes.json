@@ -1,1602 +1,3004 @@
 {
-  "VIP1": {
-    "period": "day",
-    "duration_days": 1,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP2": {
-    "period": "day",
-    "duration_days": 1,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP3": {
-    "period": "day",
-    "duration_days": 1,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP4": {
-    "period": "day",
-    "duration_days": 1,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP5": {
-    "period": "day",
-    "duration_days": 1,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP6": {
-    "period": "day",
-    "duration_days": 1,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP7": {
-    "period": "day",
-    "duration_days": 1,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP8": {
-    "period": "day",
-    "duration_days": 1,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP9": {
-    "period": "day",
-    "duration_days": 1,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP10": {
-    "period": "day",
-    "duration_days": 1,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP11": {
-    "period": "day",
-    "duration_days": 1,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP12": {
-    "period": "day",
-    "duration_days": 1,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP13": {
-    "period": "day",
-    "duration_days": 1,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP14": {
-    "period": "day",
-    "duration_days": 1,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP15": {
-    "period": "day",
-    "duration_days": 1,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP16": {
-    "period": "day",
-    "duration_days": 1,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP17": {
-    "period": "day",
-    "duration_days": 1,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP18": {
-    "period": "day",
-    "duration_days": 1,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP19": {
-    "period": "day",
-    "duration_days": 1,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP20": {
-    "period": "day",
-    "duration_days": 1,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP21": {
-    "period": "day",
-    "duration_days": 1,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP22": {
-    "period": "day",
-    "duration_days": 1,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP23": {
-    "period": "day",
-    "duration_days": 1,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP24": {
-    "period": "day",
-    "duration_days": 1,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP25": {
-    "period": "day",
-    "duration_days": 1,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP26": {
-    "period": "day",
-    "duration_days": 1,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP27": {
-    "period": "day",
-    "duration_days": 1,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP28": {
-    "period": "day",
-    "duration_days": 1,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP29": {
-    "period": "day",
-    "duration_days": 1,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP30": {
-    "period": "day",
-    "duration_days": 1,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP31": {
-    "period": "day",
-    "duration_days": 1,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP32": {
-    "period": "day",
-    "duration_days": 1,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP33": {
-    "period": "day",
-    "duration_days": 1,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP34": {
-    "period": "day",
-    "duration_days": 1,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP35": {
-    "period": "day",
-    "duration_days": 1,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP36": {
-    "period": "day",
-    "duration_days": 1,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP37": {
-    "period": "day",
-    "duration_days": 1,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP38": {
-    "period": "day",
-    "duration_days": 1,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP39": {
-    "period": "day",
-    "duration_days": 1,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP40": {
-    "period": "day",
-    "duration_days": 1,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP41": {
-    "period": "day",
-    "duration_days": 1,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP42": {
-    "period": "day",
-    "duration_days": 1,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP43": {
-    "period": "day",
-    "duration_days": 1,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP44": {
-    "period": "day",
-    "duration_days": 1,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP45": {
-    "period": "day",
-    "duration_days": 1,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP46": {
-    "period": "day",
-    "duration_days": 1,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP47": {
-    "period": "day",
-    "duration_days": 1,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP48": {
-    "period": "day",
-    "duration_days": 1,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP49": {
-    "period": "day",
-    "duration_days": 1,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP50": {
-    "period": "day",
-    "duration_days": 1,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP51": {
-    "period": "week",
-    "duration_days": 7,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP52": {
-    "period": "week",
-    "duration_days": 7,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP53": {
-    "period": "week",
-    "duration_days": 7,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP54": {
-    "period": "week",
-    "duration_days": 7,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP55": {
-    "period": "week",
-    "duration_days": 7,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP56": {
-    "period": "week",
-    "duration_days": 7,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP57": {
-    "period": "week",
-    "duration_days": 7,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP58": {
-    "period": "week",
-    "duration_days": 7,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP59": {
-    "period": "week",
-    "duration_days": 7,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP60": {
-    "period": "week",
-    "duration_days": 7,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP61": {
-    "period": "week",
-    "duration_days": 7,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP62": {
-    "period": "week",
-    "duration_days": 7,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP63": {
-    "period": "week",
-    "duration_days": 7,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP64": {
-    "period": "week",
-    "duration_days": 7,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP65": {
-    "period": "week",
-    "duration_days": 7,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP66": {
-    "period": "week",
-    "duration_days": 7,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP67": {
-    "period": "week",
-    "duration_days": 7,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP68": {
-    "period": "week",
-    "duration_days": 7,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP69": {
-    "period": "week",
-    "duration_days": 7,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP70": {
-    "period": "week",
-    "duration_days": 7,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP71": {
-    "period": "week",
-    "duration_days": 7,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP72": {
-    "period": "week",
-    "duration_days": 7,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP73": {
-    "period": "week",
-    "duration_days": 7,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP74": {
-    "period": "week",
-    "duration_days": 7,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP75": {
-    "period": "week",
-    "duration_days": 7,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP76": {
-    "period": "week",
-    "duration_days": 7,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP77": {
-    "period": "week",
-    "duration_days": 7,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP78": {
-    "period": "week",
-    "duration_days": 7,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP79": {
-    "period": "week",
-    "duration_days": 7,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP80": {
-    "period": "week",
-    "duration_days": 7,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP81": {
-    "period": "week",
-    "duration_days": 7,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP82": {
-    "period": "week",
-    "duration_days": 7,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP83": {
-    "period": "week",
-    "duration_days": 7,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP84": {
-    "period": "week",
-    "duration_days": 7,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP85": {
-    "period": "week",
-    "duration_days": 7,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP86": {
-    "period": "week",
-    "duration_days": 7,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP87": {
-    "period": "week",
-    "duration_days": 7,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP88": {
-    "period": "week",
-    "duration_days": 7,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP89": {
-    "period": "week",
-    "duration_days": 7,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP90": {
-    "period": "week",
-    "duration_days": 7,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP91": {
-    "period": "week",
-    "duration_days": 7,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP92": {
-    "period": "week",
-    "duration_days": 7,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP93": {
-    "period": "week",
-    "duration_days": 7,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP94": {
-    "period": "week",
-    "duration_days": 7,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP95": {
-    "period": "week",
-    "duration_days": 7,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP96": {
-    "period": "week",
-    "duration_days": 7,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP97": {
-    "period": "week",
-    "duration_days": 7,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP98": {
-    "period": "week",
-    "duration_days": 7,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP99": {
-    "period": "week",
-    "duration_days": 7,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP100": {
-    "period": "week",
-    "duration_days": 7,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP101": {
-    "period": "two_weeks",
-    "duration_days": 14,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP102": {
-    "period": "two_weeks",
-    "duration_days": 14,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP103": {
-    "period": "two_weeks",
-    "duration_days": 14,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP104": {
-    "period": "two_weeks",
-    "duration_days": 14,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP105": {
-    "period": "two_weeks",
-    "duration_days": 14,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP106": {
-    "period": "two_weeks",
-    "duration_days": 14,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP107": {
-    "period": "two_weeks",
-    "duration_days": 14,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP108": {
-    "period": "two_weeks",
-    "duration_days": 14,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP109": {
-    "period": "two_weeks",
-    "duration_days": 14,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP110": {
-    "period": "two_weeks",
-    "duration_days": 14,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP111": {
-    "period": "two_weeks",
-    "duration_days": 14,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP112": {
-    "period": "two_weeks",
-    "duration_days": 14,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP113": {
-    "period": "two_weeks",
-    "duration_days": 14,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP114": {
-    "period": "two_weeks",
-    "duration_days": 14,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP115": {
-    "period": "two_weeks",
-    "duration_days": 14,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP116": {
-    "period": "two_weeks",
-    "duration_days": 14,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP117": {
-    "period": "two_weeks",
-    "duration_days": 14,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP118": {
-    "period": "two_weeks",
-    "duration_days": 14,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP119": {
-    "period": "two_weeks",
-    "duration_days": 14,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP120": {
-    "period": "two_weeks",
-    "duration_days": 14,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP121": {
-    "period": "two_weeks",
-    "duration_days": 14,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP122": {
-    "period": "two_weeks",
-    "duration_days": 14,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP123": {
-    "period": "two_weeks",
-    "duration_days": 14,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP124": {
-    "period": "two_weeks",
-    "duration_days": 14,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP125": {
-    "period": "two_weeks",
-    "duration_days": 14,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP126": {
-    "period": "two_weeks",
-    "duration_days": 14,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP127": {
-    "period": "two_weeks",
-    "duration_days": 14,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP128": {
-    "period": "two_weeks",
-    "duration_days": 14,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP129": {
-    "period": "two_weeks",
-    "duration_days": 14,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP130": {
-    "period": "two_weeks",
-    "duration_days": 14,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP131": {
-    "period": "two_weeks",
-    "duration_days": 14,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP132": {
-    "period": "two_weeks",
-    "duration_days": 14,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP133": {
-    "period": "two_weeks",
-    "duration_days": 14,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP134": {
-    "period": "two_weeks",
-    "duration_days": 14,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP135": {
-    "period": "two_weeks",
-    "duration_days": 14,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP136": {
-    "period": "two_weeks",
-    "duration_days": 14,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP137": {
-    "period": "two_weeks",
-    "duration_days": 14,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP138": {
-    "period": "two_weeks",
-    "duration_days": 14,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP139": {
-    "period": "two_weeks",
-    "duration_days": 14,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP140": {
-    "period": "two_weeks",
-    "duration_days": 14,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP141": {
-    "period": "two_weeks",
-    "duration_days": 14,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP142": {
-    "period": "two_weeks",
-    "duration_days": 14,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP143": {
-    "period": "two_weeks",
-    "duration_days": 14,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP144": {
-    "period": "two_weeks",
-    "duration_days": 14,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP145": {
-    "period": "two_weeks",
-    "duration_days": 14,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP146": {
-    "period": "two_weeks",
-    "duration_days": 14,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP147": {
-    "period": "two_weeks",
-    "duration_days": 14,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP148": {
-    "period": "two_weeks",
-    "duration_days": 14,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP149": {
-    "period": "two_weeks",
-    "duration_days": 14,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP150": {
-    "period": "two_weeks",
-    "duration_days": 14,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP151": {
-    "period": "month",
-    "duration_days": 30,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP152": {
-    "period": "month",
-    "duration_days": 30,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP153": {
-    "period": "month",
-    "duration_days": 30,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP154": {
-    "period": "month",
-    "duration_days": 30,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP155": {
-    "period": "month",
-    "duration_days": 30,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP156": {
-    "period": "month",
-    "duration_days": 30,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP157": {
-    "period": "month",
-    "duration_days": 30,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP158": {
-    "period": "month",
-    "duration_days": 30,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP159": {
-    "period": "month",
-    "duration_days": 30,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP160": {
-    "period": "month",
-    "duration_days": 30,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP161": {
-    "period": "month",
-    "duration_days": 30,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP162": {
-    "period": "month",
-    "duration_days": 30,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP163": {
-    "period": "month",
-    "duration_days": 30,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP164": {
-    "period": "month",
-    "duration_days": 30,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP165": {
-    "period": "month",
-    "duration_days": 30,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP166": {
-    "period": "month",
-    "duration_days": 30,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP167": {
-    "period": "month",
-    "duration_days": 30,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP168": {
-    "period": "month",
-    "duration_days": 30,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP169": {
-    "period": "month",
-    "duration_days": 30,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP170": {
-    "period": "month",
-    "duration_days": 30,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP171": {
-    "period": "month",
-    "duration_days": 30,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP172": {
-    "period": "month",
-    "duration_days": 30,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP173": {
-    "period": "month",
-    "duration_days": 30,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP174": {
-    "period": "month",
-    "duration_days": 30,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP175": {
-    "period": "month",
-    "duration_days": 30,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP176": {
-    "period": "month",
-    "duration_days": 30,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP177": {
-    "period": "month",
-    "duration_days": 30,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP178": {
-    "period": "month",
-    "duration_days": 30,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP179": {
-    "period": "month",
-    "duration_days": 30,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP180": {
-    "period": "month",
-    "duration_days": 30,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP181": {
-    "period": "month",
-    "duration_days": 30,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP182": {
-    "period": "month",
-    "duration_days": 30,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP183": {
-    "period": "month",
-    "duration_days": 30,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP184": {
-    "period": "month",
-    "duration_days": 30,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP185": {
-    "period": "month",
-    "duration_days": 30,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP186": {
-    "period": "month",
-    "duration_days": 30,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP187": {
-    "period": "month",
-    "duration_days": 30,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP188": {
-    "period": "month",
-    "duration_days": 30,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP189": {
-    "period": "month",
-    "duration_days": 30,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP190": {
-    "period": "month",
-    "duration_days": 30,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP191": {
-    "period": "month",
-    "duration_days": 30,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP192": {
-    "period": "month",
-    "duration_days": 30,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP193": {
-    "period": "month",
-    "duration_days": 30,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP194": {
-    "period": "month",
-    "duration_days": 30,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP195": {
-    "period": "month",
-    "duration_days": 30,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP196": {
-    "period": "month",
-    "duration_days": 30,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP197": {
-    "period": "month",
-    "duration_days": 30,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP198": {
-    "period": "month",
-    "duration_days": 30,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP199": {
-    "period": "month",
-    "duration_days": 30,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
-  },
-  "VIP200": {
-    "period": "month",
-    "duration_days": 30,
-    "max_devices": 1,
-    "used_devices": [],
-    "first_used": null,
-    "expiry_date": null
+  "keys": {
+    "L638IYW9ZE18WEJ4": {
+      "max_devices": 53,
+      "expiry_date": "2026-05-05",
+      "status": "active",
+      "note": "1_day | devices: 53"
+    },
+    "0SR9Y3C4JU1MAHFF": {
+      "max_devices": 70,
+      "expiry_date": "2026-05-05",
+      "status": "active",
+      "note": "1_day | devices: 70"
+    },
+    "TPD0I8Q92PVOEYIY": {
+      "max_devices": 41,
+      "expiry_date": "2026-05-05",
+      "status": "active",
+      "note": "1_day | devices: 41"
+    },
+    "QNF0TNNCJSBCNDKO": {
+      "max_devices": 95,
+      "expiry_date": "2026-05-05",
+      "status": "active",
+      "note": "1_day | devices: 95"
+    },
+    "P3C5N7LI417WUHED": {
+      "max_devices": 30,
+      "expiry_date": "2026-05-05",
+      "status": "active",
+      "note": "1_day | devices: 30"
+    },
+    "SUMAQ3JWHFU2MBR0": {
+      "max_devices": 9,
+      "expiry_date": "2026-05-05",
+      "status": "active",
+      "note": "1_day | devices: 9"
+    },
+    "X68XLVDNMKRJI3XD": {
+      "max_devices": 76,
+      "expiry_date": "2026-05-05",
+      "status": "active",
+      "note": "1_day | devices: 76"
+    },
+    "J9O22TKH1POLJG09": {
+      "max_devices": 1,
+      "expiry_date": "2026-05-05",
+      "status": "active",
+      "note": "1_day | devices: 1"
+    },
+    "ZRYPLMTIHVD4Y4LC": {
+      "max_devices": 1,
+      "expiry_date": "2026-05-05",
+      "status": "active",
+      "note": "1_day | devices: 1"
+    },
+    "PRR9GAGWLF0JVXEQ": {
+      "max_devices": 22,
+      "expiry_date": "2026-05-05",
+      "status": "active",
+      "note": "1_day | devices: 22"
+    },
+    "K6PL3EJ4I5E9RQIS": {
+      "max_devices": 48,
+      "expiry_date": "2026-05-05",
+      "status": "active",
+      "note": "1_day | devices: 48"
+    },
+    "QK31ECG20I9Y3PTO": {
+      "max_devices": 40,
+      "expiry_date": "2026-05-05",
+      "status": "active",
+      "note": "1_day | devices: 40"
+    },
+    "S69BK91D4H0DZY8S": {
+      "max_devices": 70,
+      "expiry_date": "2026-05-05",
+      "status": "active",
+      "note": "1_day | devices: 70"
+    },
+    "9OUP8N4DWV7AKP0B": {
+      "max_devices": 58,
+      "expiry_date": "2026-05-05",
+      "status": "active",
+      "note": "1_day | devices: 58"
+    },
+    "FXH609PA8V4VQD2I": {
+      "max_devices": 3,
+      "expiry_date": "2026-05-05",
+      "status": "active",
+      "note": "1_day | devices: 3"
+    },
+    "4HRUWKSXRRLWE3WD": {
+      "max_devices": 56,
+      "expiry_date": "2026-05-05",
+      "status": "active",
+      "note": "1_day | devices: 56"
+    },
+    "SRBY0KASADU61FFC": {
+      "max_devices": 94,
+      "expiry_date": "2026-05-05",
+      "status": "active",
+      "note": "1_day | devices: 94"
+    },
+    "DZ49MZUNN0MLNCKH": {
+      "max_devices": 82,
+      "expiry_date": "2026-05-05",
+      "status": "active",
+      "note": "1_day | devices: 82"
+    },
+    "IZGNV92NFTW19YEF": {
+      "max_devices": 99,
+      "expiry_date": "2026-05-05",
+      "status": "active",
+      "note": "1_day | devices: 99"
+    },
+    "W1DR0QGNNHMKNAFE": {
+      "max_devices": 88,
+      "expiry_date": "2026-05-05",
+      "status": "active",
+      "note": "1_day | devices: 88"
+    },
+    "F2DGJVQM2WX5N978": {
+      "max_devices": 81,
+      "expiry_date": "2026-05-05",
+      "status": "active",
+      "note": "1_day | devices: 81"
+    },
+    "NVJX380XW1EOCBV7": {
+      "max_devices": 6,
+      "expiry_date": "2026-05-05",
+      "status": "active",
+      "note": "1_day | devices: 6"
+    },
+    "KCQHUETWRDZNK0X6": {
+      "max_devices": 65,
+      "expiry_date": "2026-05-05",
+      "status": "active",
+      "note": "1_day | devices: 65"
+    },
+    "NAU0GSTDSWPYYENN": {
+      "max_devices": 90,
+      "expiry_date": "2026-05-05",
+      "status": "active",
+      "note": "1_day | devices: 90"
+    },
+    "1AC9OFAR69FRJG0G": {
+      "max_devices": 8,
+      "expiry_date": "2026-05-05",
+      "status": "active",
+      "note": "1_day | devices: 8"
+    },
+    "TJ3NSZFG998DIFCV": {
+      "max_devices": 86,
+      "expiry_date": "2026-05-05",
+      "status": "active",
+      "note": "1_day | devices: 86"
+    },
+    "4VDENYCPMLWNE1AN": {
+      "max_devices": 44,
+      "expiry_date": "2026-05-05",
+      "status": "active",
+      "note": "1_day | devices: 44"
+    },
+    "2Q4IKVP2HB1DNDW1": {
+      "max_devices": 13,
+      "expiry_date": "2026-05-05",
+      "status": "active",
+      "note": "1_day | devices: 13"
+    },
+    "O37GSF5XEYI0BMJY": {
+      "max_devices": 59,
+      "expiry_date": "2026-05-05",
+      "status": "active",
+      "note": "1_day | devices: 59"
+    },
+    "ZVZWU03SUE3ZVKJM": {
+      "max_devices": 55,
+      "expiry_date": "2026-05-05",
+      "status": "active",
+      "note": "1_day | devices: 55"
+    },
+    "JJ76F7OC8Q3FR7YO": {
+      "max_devices": 17,
+      "expiry_date": "2026-05-05",
+      "status": "active",
+      "note": "1_day | devices: 17"
+    },
+    "WKQ8AB9F94M0QP28": {
+      "max_devices": 23,
+      "expiry_date": "2026-05-05",
+      "status": "active",
+      "note": "1_day | devices: 23"
+    },
+    "0A52D1GAYSCN9TEA": {
+      "max_devices": 60,
+      "expiry_date": "2026-05-05",
+      "status": "active",
+      "note": "1_day | devices: 60"
+    },
+    "5KAAMBNJR4LHALZK": {
+      "max_devices": 76,
+      "expiry_date": "2026-05-05",
+      "status": "active",
+      "note": "1_day | devices: 76"
+    },
+    "WM23PMPZR501EMTB": {
+      "max_devices": 49,
+      "expiry_date": "2026-05-05",
+      "status": "active",
+      "note": "1_day | devices: 49"
+    },
+    "55NYFWHDR6DWDZOW": {
+      "max_devices": 63,
+      "expiry_date": "2026-05-05",
+      "status": "active",
+      "note": "1_day | devices: 63"
+    },
+    "WPXKIT3P0O358AFA": {
+      "max_devices": 57,
+      "expiry_date": "2026-05-05",
+      "status": "active",
+      "note": "1_day | devices: 57"
+    },
+    "TINI4ZHFYQY0LUP5": {
+      "max_devices": 64,
+      "expiry_date": "2026-05-05",
+      "status": "active",
+      "note": "1_day | devices: 64"
+    },
+    "337R59QNQRHDJNY5": {
+      "max_devices": 91,
+      "expiry_date": "2026-05-05",
+      "status": "active",
+      "note": "1_day | devices: 91"
+    },
+    "FEZ0ZKOFIML3SAEP": {
+      "max_devices": 16,
+      "expiry_date": "2026-05-05",
+      "status": "active",
+      "note": "1_day | devices: 16"
+    },
+    "TMGXXONG1E41XKWB": {
+      "max_devices": 89,
+      "expiry_date": "2026-05-05",
+      "status": "active",
+      "note": "1_day | devices: 89"
+    },
+    "YWEWMR0G9GNOX3M1": {
+      "max_devices": 6,
+      "expiry_date": "2026-05-05",
+      "status": "active",
+      "note": "1_day | devices: 6"
+    },
+    "NGAAL4HJDW3P86LE": {
+      "max_devices": 87,
+      "expiry_date": "2026-05-05",
+      "status": "active",
+      "note": "1_day | devices: 87"
+    },
+    "HXDCZ8NR6J3E1YQU": {
+      "max_devices": 26,
+      "expiry_date": "2026-05-05",
+      "status": "active",
+      "note": "1_day | devices: 26"
+    },
+    "WKJWQ98EEBIP5IE0": {
+      "max_devices": 67,
+      "expiry_date": "2026-05-05",
+      "status": "active",
+      "note": "1_day | devices: 67"
+    },
+    "VIHHATQVUIRSM3WE": {
+      "max_devices": 10,
+      "expiry_date": "2026-05-05",
+      "status": "active",
+      "note": "1_day | devices: 10"
+    },
+    "KOPIG2GV7WMVVW2K": {
+      "max_devices": 2,
+      "expiry_date": "2026-05-05",
+      "status": "active",
+      "note": "1_day | devices: 2"
+    },
+    "B1X6SGZ93CZGBUYO": {
+      "max_devices": 14,
+      "expiry_date": "2026-05-05",
+      "status": "active",
+      "note": "1_day | devices: 14"
+    },
+    "4BFNF8W69305YUVI": {
+      "max_devices": 66,
+      "expiry_date": "2026-05-05",
+      "status": "active",
+      "note": "1_day | devices: 66"
+    },
+    "V1EIYH0A9CK9GRTA": {
+      "max_devices": 10,
+      "expiry_date": "2026-05-05",
+      "status": "active",
+      "note": "1_day | devices: 10"
+    },
+    "52SHMQNVZIG2C8NV": {
+      "max_devices": 25,
+      "expiry_date": "2026-05-05",
+      "status": "active",
+      "note": "1_day | devices: 25"
+    },
+    "IY1XGH4W1QVYXXHX": {
+      "max_devices": 90,
+      "expiry_date": "2026-05-05",
+      "status": "active",
+      "note": "1_day | devices: 90"
+    },
+    "IOZCU2RYVN1K33DL": {
+      "max_devices": 95,
+      "expiry_date": "2026-05-05",
+      "status": "active",
+      "note": "1_day | devices: 95"
+    },
+    "YCJ6SAOXALX01IQ2": {
+      "max_devices": 68,
+      "expiry_date": "2026-05-05",
+      "status": "active",
+      "note": "1_day | devices: 68"
+    },
+    "ET92LNRV53X48JMN": {
+      "max_devices": 68,
+      "expiry_date": "2026-05-05",
+      "status": "active",
+      "note": "1_day | devices: 68"
+    },
+    "P1UZBQABANRXYU7M": {
+      "max_devices": 74,
+      "expiry_date": "2026-05-05",
+      "status": "active",
+      "note": "1_day | devices: 74"
+    },
+    "RYDDH9XBJA17MXKO": {
+      "max_devices": 56,
+      "expiry_date": "2026-05-05",
+      "status": "active",
+      "note": "1_day | devices: 56"
+    },
+    "9SZFIVMGXWLO3692": {
+      "max_devices": 33,
+      "expiry_date": "2026-05-05",
+      "status": "active",
+      "note": "1_day | devices: 33"
+    },
+    "3GBNQAXEOMMUNMTZ": {
+      "max_devices": 99,
+      "expiry_date": "2026-05-05",
+      "status": "active",
+      "note": "1_day | devices: 99"
+    },
+    "E2PAAG4K2JL9VK52": {
+      "max_devices": 93,
+      "expiry_date": "2026-05-05",
+      "status": "active",
+      "note": "1_day | devices: 93"
+    },
+    "053ZJWXE4ICWIGKD": {
+      "max_devices": 14,
+      "expiry_date": "2026-05-05",
+      "status": "active",
+      "note": "1_day | devices: 14"
+    },
+    "PCLNH9G1P4VJLYKS": {
+      "max_devices": 51,
+      "expiry_date": "2026-05-05",
+      "status": "active",
+      "note": "1_day | devices: 51"
+    },
+    "009R53KC1PFYDQ61": {
+      "max_devices": 45,
+      "expiry_date": "2026-05-05",
+      "status": "active",
+      "note": "1_day | devices: 45"
+    },
+    "V9G7UGQNPITW8KYT": {
+      "max_devices": 40,
+      "expiry_date": "2026-05-05",
+      "status": "active",
+      "note": "1_day | devices: 40"
+    },
+    "O5TC8RQIZP4V083X": {
+      "max_devices": 76,
+      "expiry_date": "2026-05-05",
+      "status": "active",
+      "note": "1_day | devices: 76"
+    },
+    "R9HW4DTVM7YAR5VO": {
+      "max_devices": 92,
+      "expiry_date": "2026-05-05",
+      "status": "active",
+      "note": "1_day | devices: 92"
+    },
+    "NHC0HH404G60MHCY": {
+      "max_devices": 100,
+      "expiry_date": "2026-05-05",
+      "status": "active",
+      "note": "1_day | devices: 100"
+    },
+    "S5L0WHTTJGBZ6FYK": {
+      "max_devices": 3,
+      "expiry_date": "2026-05-05",
+      "status": "active",
+      "note": "1_day | devices: 3"
+    },
+    "O7ZYZPSP505PXIP8": {
+      "max_devices": 65,
+      "expiry_date": "2026-05-05",
+      "status": "active",
+      "note": "1_day | devices: 65"
+    },
+    "5N44CJZETZ1ZHYOX": {
+      "max_devices": 50,
+      "expiry_date": "2026-05-05",
+      "status": "active",
+      "note": "1_day | devices: 50"
+    },
+    "5CR5EYFTISJ9JRSL": {
+      "max_devices": 49,
+      "expiry_date": "2026-05-05",
+      "status": "active",
+      "note": "1_day | devices: 49"
+    },
+    "A3KUXUBM6C0AP5X4": {
+      "max_devices": 31,
+      "expiry_date": "2026-05-05",
+      "status": "active",
+      "note": "1_day | devices: 31"
+    },
+    "EJ2ZUKEUU8BYF3WO": {
+      "max_devices": 10,
+      "expiry_date": "2026-05-05",
+      "status": "active",
+      "note": "1_day | devices: 10"
+    },
+    "0NULHLNO64HDQV1C": {
+      "max_devices": 37,
+      "expiry_date": "2026-05-05",
+      "status": "active",
+      "note": "1_day | devices: 37"
+    },
+    "UB4C4QUN44MPWWQL": {
+      "max_devices": 14,
+      "expiry_date": "2026-05-05",
+      "status": "active",
+      "note": "1_day | devices: 14"
+    },
+    "C0ZQKMGKF2FY4W0C": {
+      "max_devices": 74,
+      "expiry_date": "2026-05-05",
+      "status": "active",
+      "note": "1_day | devices: 74"
+    },
+    "K9QSA4BR12D23YKQ": {
+      "max_devices": 52,
+      "expiry_date": "2026-05-05",
+      "status": "active",
+      "note": "1_day | devices: 52"
+    },
+    "LVNO0MP2B454BPFT": {
+      "max_devices": 79,
+      "expiry_date": "2026-05-05",
+      "status": "active",
+      "note": "1_day | devices: 79"
+    },
+    "ZE19B9RL49PQHE67": {
+      "max_devices": 82,
+      "expiry_date": "2026-05-05",
+      "status": "active",
+      "note": "1_day | devices: 82"
+    },
+    "D69G89HGGODVILCR": {
+      "max_devices": 26,
+      "expiry_date": "2026-05-05",
+      "status": "active",
+      "note": "1_day | devices: 26"
+    },
+    "GZEQ6KV7AUJJRZ4H": {
+      "max_devices": 32,
+      "expiry_date": "2026-05-05",
+      "status": "active",
+      "note": "1_day | devices: 32"
+    },
+    "F5XZRAP5FRDA13AJ": {
+      "max_devices": 11,
+      "expiry_date": "2026-05-05",
+      "status": "active",
+      "note": "1_day | devices: 11"
+    },
+    "60S600I59GNM7SHM": {
+      "max_devices": 95,
+      "expiry_date": "2026-05-05",
+      "status": "active",
+      "note": "1_day | devices: 95"
+    },
+    "GH9W0PWAXLH4O13M": {
+      "max_devices": 50,
+      "expiry_date": "2026-05-05",
+      "status": "active",
+      "note": "1_day | devices: 50"
+    },
+    "25502Y6Z77AS1OHI": {
+      "max_devices": 10,
+      "expiry_date": "2026-05-05",
+      "status": "active",
+      "note": "1_day | devices: 10"
+    },
+    "NRCMQPB4UGF3K0T6": {
+      "max_devices": 2,
+      "expiry_date": "2026-05-05",
+      "status": "active",
+      "note": "1_day | devices: 2"
+    },
+    "QKU4MM44T02VSYZL": {
+      "max_devices": 74,
+      "expiry_date": "2026-05-05",
+      "status": "active",
+      "note": "1_day | devices: 74"
+    },
+    "61JH9UH3XPGO06L0": {
+      "max_devices": 32,
+      "expiry_date": "2026-05-05",
+      "status": "active",
+      "note": "1_day | devices: 32"
+    },
+    "QS7VYEYOXUIIH44Q": {
+      "max_devices": 15,
+      "expiry_date": "2026-05-05",
+      "status": "active",
+      "note": "1_day | devices: 15"
+    },
+    "6BWSOQ7HMXK9ACVE": {
+      "max_devices": 61,
+      "expiry_date": "2026-05-05",
+      "status": "active",
+      "note": "1_day | devices: 61"
+    },
+    "VKDRNPNMR0HQ0NPP": {
+      "max_devices": 44,
+      "expiry_date": "2026-05-05",
+      "status": "active",
+      "note": "1_day | devices: 44"
+    },
+    "TP2CIC6LNJZS3HPM": {
+      "max_devices": 24,
+      "expiry_date": "2026-05-05",
+      "status": "active",
+      "note": "1_day | devices: 24"
+    },
+    "MPUT6VDRSV1033TG": {
+      "max_devices": 24,
+      "expiry_date": "2026-05-05",
+      "status": "active",
+      "note": "1_day | devices: 24"
+    },
+    "F2ORYDST0HKAA80T": {
+      "max_devices": 45,
+      "expiry_date": "2026-05-05",
+      "status": "active",
+      "note": "1_day | devices: 45"
+    },
+    "YO2MR8GFG7EQE1F5": {
+      "max_devices": 27,
+      "expiry_date": "2026-05-05",
+      "status": "active",
+      "note": "1_day | devices: 27"
+    },
+    "A6E4I70C8B0G4IQA": {
+      "max_devices": 15,
+      "expiry_date": "2026-05-05",
+      "status": "active",
+      "note": "1_day | devices: 15"
+    },
+    "4UQP3BXUKGZCH8UY": {
+      "max_devices": 100,
+      "expiry_date": "2026-05-05",
+      "status": "active",
+      "note": "1_day | devices: 100"
+    },
+    "K6W26GVFQKMXYHC1": {
+      "max_devices": 9,
+      "expiry_date": "2026-05-05",
+      "status": "active",
+      "note": "1_day | devices: 9"
+    },
+    "HPIKX879O3VWGG9H": {
+      "max_devices": 68,
+      "expiry_date": "2026-05-05",
+      "status": "active",
+      "note": "1_day | devices: 68"
+    },
+    "9VFPIEILGJIS8M91": {
+      "max_devices": 9,
+      "expiry_date": "2026-05-05",
+      "status": "active",
+      "note": "1_day | devices: 9"
+    },
+    "UHXYK3RI4OOEEE8R": {
+      "max_devices": 79,
+      "expiry_date": "2026-05-11",
+      "status": "active",
+      "note": "1_week | devices: 79"
+    },
+    "PF14GY0QAB80NHQR": {
+      "max_devices": 19,
+      "expiry_date": "2026-05-11",
+      "status": "active",
+      "note": "1_week | devices: 19"
+    },
+    "CKDBI29921JZPNQA": {
+      "max_devices": 82,
+      "expiry_date": "2026-05-11",
+      "status": "active",
+      "note": "1_week | devices: 82"
+    },
+    "SIV4CE286YHRZRCC": {
+      "max_devices": 3,
+      "expiry_date": "2026-05-11",
+      "status": "active",
+      "note": "1_week | devices: 3"
+    },
+    "AI3B66PXHB1DI0VY": {
+      "max_devices": 97,
+      "expiry_date": "2026-05-11",
+      "status": "active",
+      "note": "1_week | devices: 97"
+    },
+    "B3EBITV4ISYBJWG4": {
+      "max_devices": 57,
+      "expiry_date": "2026-05-11",
+      "status": "active",
+      "note": "1_week | devices: 57"
+    },
+    "WR0FVQEH6O35MQ19": {
+      "max_devices": 63,
+      "expiry_date": "2026-05-11",
+      "status": "active",
+      "note": "1_week | devices: 63"
+    },
+    "C9RD3THJJHNE4QE7": {
+      "max_devices": 98,
+      "expiry_date": "2026-05-11",
+      "status": "active",
+      "note": "1_week | devices: 98"
+    },
+    "5ILA43NQVH2RCCWV": {
+      "max_devices": 8,
+      "expiry_date": "2026-05-11",
+      "status": "active",
+      "note": "1_week | devices: 8"
+    },
+    "DT93HB7F2NG2B0LY": {
+      "max_devices": 66,
+      "expiry_date": "2026-05-11",
+      "status": "active",
+      "note": "1_week | devices: 66"
+    },
+    "A3YJC5ZWVFYMNO8Y": {
+      "max_devices": 47,
+      "expiry_date": "2026-05-11",
+      "status": "active",
+      "note": "1_week | devices: 47"
+    },
+    "I969FAU2R5YZUTHA": {
+      "max_devices": 11,
+      "expiry_date": "2026-05-11",
+      "status": "active",
+      "note": "1_week | devices: 11"
+    },
+    "MJQ0125OH6DKS7HV": {
+      "max_devices": 5,
+      "expiry_date": "2026-05-11",
+      "status": "active",
+      "note": "1_week | devices: 5"
+    },
+    "1RR8U847LAL13NNG": {
+      "max_devices": 26,
+      "expiry_date": "2026-05-11",
+      "status": "active",
+      "note": "1_week | devices: 26"
+    },
+    "7DE4L88CSW2ERYMB": {
+      "max_devices": 95,
+      "expiry_date": "2026-05-11",
+      "status": "active",
+      "note": "1_week | devices: 95"
+    },
+    "B5V6ONFD93KBPIH9": {
+      "max_devices": 12,
+      "expiry_date": "2026-05-11",
+      "status": "active",
+      "note": "1_week | devices: 12"
+    },
+    "0A14NTSETFA7TIPC": {
+      "max_devices": 12,
+      "expiry_date": "2026-05-11",
+      "status": "active",
+      "note": "1_week | devices: 12"
+    },
+    "OJN67KLPTVOVCZ3Z": {
+      "max_devices": 91,
+      "expiry_date": "2026-05-11",
+      "status": "active",
+      "note": "1_week | devices: 91"
+    },
+    "DDVLZ8XWXQLQ76C8": {
+      "max_devices": 2,
+      "expiry_date": "2026-05-11",
+      "status": "active",
+      "note": "1_week | devices: 2"
+    },
+    "EUJWXGINPNBTN162": {
+      "max_devices": 7,
+      "expiry_date": "2026-05-11",
+      "status": "active",
+      "note": "1_week | devices: 7"
+    },
+    "5M33H3STPA7GR1RK": {
+      "max_devices": 18,
+      "expiry_date": "2026-05-11",
+      "status": "active",
+      "note": "1_week | devices: 18"
+    },
+    "FVXMEDOTGJJH16MB": {
+      "max_devices": 77,
+      "expiry_date": "2026-05-11",
+      "status": "active",
+      "note": "1_week | devices: 77"
+    },
+    "3AR0CXEOFQZJ4MKJ": {
+      "max_devices": 100,
+      "expiry_date": "2026-05-11",
+      "status": "active",
+      "note": "1_week | devices: 100"
+    },
+    "1KRUW6W9AM5W0PBL": {
+      "max_devices": 4,
+      "expiry_date": "2026-05-11",
+      "status": "active",
+      "note": "1_week | devices: 4"
+    },
+    "7EN4CDJ6K9SLETFY": {
+      "max_devices": 60,
+      "expiry_date": "2026-05-11",
+      "status": "active",
+      "note": "1_week | devices: 60"
+    },
+    "4BWFWLOSS94B4614": {
+      "max_devices": 61,
+      "expiry_date": "2026-05-11",
+      "status": "active",
+      "note": "1_week | devices: 61"
+    },
+    "9C5Y9FXLVDXYZNKS": {
+      "max_devices": 11,
+      "expiry_date": "2026-05-11",
+      "status": "active",
+      "note": "1_week | devices: 11"
+    },
+    "OUUO6B5M7EMKJU1A": {
+      "max_devices": 78,
+      "expiry_date": "2026-05-11",
+      "status": "active",
+      "note": "1_week | devices: 78"
+    },
+    "F6EQ1PY6FDDDO19V": {
+      "max_devices": 66,
+      "expiry_date": "2026-05-11",
+      "status": "active",
+      "note": "1_week | devices: 66"
+    },
+    "O7LZLFGEQLW319AK": {
+      "max_devices": 57,
+      "expiry_date": "2026-05-11",
+      "status": "active",
+      "note": "1_week | devices: 57"
+    },
+    "9RSRIN2FCYE0739O": {
+      "max_devices": 97,
+      "expiry_date": "2026-05-11",
+      "status": "active",
+      "note": "1_week | devices: 97"
+    },
+    "9S952NRT7SACKZVH": {
+      "max_devices": 60,
+      "expiry_date": "2026-05-11",
+      "status": "active",
+      "note": "1_week | devices: 60"
+    },
+    "C01IEF9B21E9G90B": {
+      "max_devices": 38,
+      "expiry_date": "2026-05-11",
+      "status": "active",
+      "note": "1_week | devices: 38"
+    },
+    "VIHGNHLVNWQMEVLC": {
+      "max_devices": 88,
+      "expiry_date": "2026-05-11",
+      "status": "active",
+      "note": "1_week | devices: 88"
+    },
+    "DUC2WLPSJLLGC32Q": {
+      "max_devices": 72,
+      "expiry_date": "2026-05-11",
+      "status": "active",
+      "note": "1_week | devices: 72"
+    },
+    "FGWJHCTM46612FG8": {
+      "max_devices": 87,
+      "expiry_date": "2026-05-11",
+      "status": "active",
+      "note": "1_week | devices: 87"
+    },
+    "H7XQSWMT1BJ90EMY": {
+      "max_devices": 18,
+      "expiry_date": "2026-05-11",
+      "status": "active",
+      "note": "1_week | devices: 18"
+    },
+    "WN6CD2U5HWPLLA6A": {
+      "max_devices": 30,
+      "expiry_date": "2026-05-11",
+      "status": "active",
+      "note": "1_week | devices: 30"
+    },
+    "EPULGO7K9HZD37SJ": {
+      "max_devices": 35,
+      "expiry_date": "2026-05-11",
+      "status": "active",
+      "note": "1_week | devices: 35"
+    },
+    "MZMJ71SBWMD1A9I6": {
+      "max_devices": 100,
+      "expiry_date": "2026-05-11",
+      "status": "active",
+      "note": "1_week | devices: 100"
+    },
+    "O6NXAQND2O5MHVB6": {
+      "max_devices": 49,
+      "expiry_date": "2026-05-11",
+      "status": "active",
+      "note": "1_week | devices: 49"
+    },
+    "XLFBE5QMHZD9YAFR": {
+      "max_devices": 21,
+      "expiry_date": "2026-05-11",
+      "status": "active",
+      "note": "1_week | devices: 21"
+    },
+    "2O1KJVJDPDX41SQF": {
+      "max_devices": 73,
+      "expiry_date": "2026-05-11",
+      "status": "active",
+      "note": "1_week | devices: 73"
+    },
+    "N9QACPH2CNFXXCRU": {
+      "max_devices": 31,
+      "expiry_date": "2026-05-11",
+      "status": "active",
+      "note": "1_week | devices: 31"
+    },
+    "C5DV4T40XSLAMVLC": {
+      "max_devices": 83,
+      "expiry_date": "2026-05-11",
+      "status": "active",
+      "note": "1_week | devices: 83"
+    },
+    "JKXZSNLVMY216LDC": {
+      "max_devices": 92,
+      "expiry_date": "2026-05-11",
+      "status": "active",
+      "note": "1_week | devices: 92"
+    },
+    "JZT1ZTOQLJ1B2EPF": {
+      "max_devices": 28,
+      "expiry_date": "2026-05-11",
+      "status": "active",
+      "note": "1_week | devices: 28"
+    },
+    "4DTC70283044D7E7": {
+      "max_devices": 28,
+      "expiry_date": "2026-05-11",
+      "status": "active",
+      "note": "1_week | devices: 28"
+    },
+    "WODYAY6Z2WCH1KSJ": {
+      "max_devices": 58,
+      "expiry_date": "2026-05-11",
+      "status": "active",
+      "note": "1_week | devices: 58"
+    },
+    "ESUGDKBAWKPX0ZSN": {
+      "max_devices": 95,
+      "expiry_date": "2026-05-11",
+      "status": "active",
+      "note": "1_week | devices: 95"
+    },
+    "4F2FE2YTSKOANWG2": {
+      "max_devices": 36,
+      "expiry_date": "2026-05-11",
+      "status": "active",
+      "note": "1_week | devices: 36"
+    },
+    "IIZ00ISSZEM0DXAB": {
+      "max_devices": 13,
+      "expiry_date": "2026-05-11",
+      "status": "active",
+      "note": "1_week | devices: 13"
+    },
+    "5N30VAU35N11IVLJ": {
+      "max_devices": 72,
+      "expiry_date": "2026-05-11",
+      "status": "active",
+      "note": "1_week | devices: 72"
+    },
+    "RYESZAMUKH5FNKD4": {
+      "max_devices": 29,
+      "expiry_date": "2026-05-11",
+      "status": "active",
+      "note": "1_week | devices: 29"
+    },
+    "RRD5DCGM9XAX5KLH": {
+      "max_devices": 40,
+      "expiry_date": "2026-05-11",
+      "status": "active",
+      "note": "1_week | devices: 40"
+    },
+    "K2N4V37K2KS1MGOQ": {
+      "max_devices": 64,
+      "expiry_date": "2026-05-11",
+      "status": "active",
+      "note": "1_week | devices: 64"
+    },
+    "PEZ7LV8U426V7RLL": {
+      "max_devices": 55,
+      "expiry_date": "2026-05-11",
+      "status": "active",
+      "note": "1_week | devices: 55"
+    },
+    "BSYUOHQKT2X4HUWU": {
+      "max_devices": 20,
+      "expiry_date": "2026-05-11",
+      "status": "active",
+      "note": "1_week | devices: 20"
+    },
+    "FKR1PY5E936UBOA7": {
+      "max_devices": 81,
+      "expiry_date": "2026-05-11",
+      "status": "active",
+      "note": "1_week | devices: 81"
+    },
+    "RUUIEA5M715ZG8XF": {
+      "max_devices": 48,
+      "expiry_date": "2026-05-11",
+      "status": "active",
+      "note": "1_week | devices: 48"
+    },
+    "05UBENW1M3JOMXOQ": {
+      "max_devices": 25,
+      "expiry_date": "2026-05-11",
+      "status": "active",
+      "note": "1_week | devices: 25"
+    },
+    "UV8K8U5VPQ82JBSG": {
+      "max_devices": 82,
+      "expiry_date": "2026-05-11",
+      "status": "active",
+      "note": "1_week | devices: 82"
+    },
+    "W4ATRSQG31A7KUHY": {
+      "max_devices": 55,
+      "expiry_date": "2026-05-11",
+      "status": "active",
+      "note": "1_week | devices: 55"
+    },
+    "8IATMIKIYMVT4IJY": {
+      "max_devices": 61,
+      "expiry_date": "2026-05-11",
+      "status": "active",
+      "note": "1_week | devices: 61"
+    },
+    "C4P8785W0UDX5SXA": {
+      "max_devices": 93,
+      "expiry_date": "2026-05-11",
+      "status": "active",
+      "note": "1_week | devices: 93"
+    },
+    "C6N79XZR0JYAGAUD": {
+      "max_devices": 51,
+      "expiry_date": "2026-05-11",
+      "status": "active",
+      "note": "1_week | devices: 51"
+    },
+    "JNNV6YD6FFMMQANR": {
+      "max_devices": 24,
+      "expiry_date": "2026-05-11",
+      "status": "active",
+      "note": "1_week | devices: 24"
+    },
+    "BFWWIGQ89S34CY53": {
+      "max_devices": 24,
+      "expiry_date": "2026-05-11",
+      "status": "active",
+      "note": "1_week | devices: 24"
+    },
+    "3P54ZU3ABN2OIE0M": {
+      "max_devices": 10,
+      "expiry_date": "2026-05-11",
+      "status": "active",
+      "note": "1_week | devices: 10"
+    },
+    "POI2NJF10H0WTFAP": {
+      "max_devices": 48,
+      "expiry_date": "2026-05-11",
+      "status": "active",
+      "note": "1_week | devices: 48"
+    },
+    "OV05UG4PBY98XUJ5": {
+      "max_devices": 93,
+      "expiry_date": "2026-05-11",
+      "status": "active",
+      "note": "1_week | devices: 93"
+    },
+    "5LYGPUAJUGYAUDNH": {
+      "max_devices": 39,
+      "expiry_date": "2026-05-11",
+      "status": "active",
+      "note": "1_week | devices: 39"
+    },
+    "0R247B0JYLMI6QTN": {
+      "max_devices": 83,
+      "expiry_date": "2026-05-11",
+      "status": "active",
+      "note": "1_week | devices: 83"
+    },
+    "FHACMBW7S1U00XOX": {
+      "max_devices": 29,
+      "expiry_date": "2026-05-11",
+      "status": "active",
+      "note": "1_week | devices: 29"
+    },
+    "RNSK8FW8UGIA1L9V": {
+      "max_devices": 72,
+      "expiry_date": "2026-05-11",
+      "status": "active",
+      "note": "1_week | devices: 72"
+    },
+    "4AKOEJ1DUMFA3FLO": {
+      "max_devices": 38,
+      "expiry_date": "2026-05-11",
+      "status": "active",
+      "note": "1_week | devices: 38"
+    },
+    "SMC3NSXN797VL4TH": {
+      "max_devices": 94,
+      "expiry_date": "2026-05-11",
+      "status": "active",
+      "note": "1_week | devices: 94"
+    },
+    "OQA7QBU70Z6XKUKU": {
+      "max_devices": 56,
+      "expiry_date": "2026-05-11",
+      "status": "active",
+      "note": "1_week | devices: 56"
+    },
+    "S0V5CRRBCPIMOODS": {
+      "max_devices": 88,
+      "expiry_date": "2026-05-11",
+      "status": "active",
+      "note": "1_week | devices: 88"
+    },
+    "LTWWPGQ0S0YD3RXT": {
+      "max_devices": 40,
+      "expiry_date": "2026-05-11",
+      "status": "active",
+      "note": "1_week | devices: 40"
+    },
+    "NTYM3HVS0L4FNC5B": {
+      "max_devices": 14,
+      "expiry_date": "2026-05-11",
+      "status": "active",
+      "note": "1_week | devices: 14"
+    },
+    "IHP0Z8792PNTLCSQ": {
+      "max_devices": 54,
+      "expiry_date": "2026-05-11",
+      "status": "active",
+      "note": "1_week | devices: 54"
+    },
+    "1IIAVMYJ427RTFWN": {
+      "max_devices": 52,
+      "expiry_date": "2026-05-11",
+      "status": "active",
+      "note": "1_week | devices: 52"
+    },
+    "MNP37FTL2H97WI9Y": {
+      "max_devices": 60,
+      "expiry_date": "2026-05-11",
+      "status": "active",
+      "note": "1_week | devices: 60"
+    },
+    "GEUJ73ARQJ12QOV0": {
+      "max_devices": 76,
+      "expiry_date": "2026-05-11",
+      "status": "active",
+      "note": "1_week | devices: 76"
+    },
+    "2PPUOTIX1BSAZXVH": {
+      "max_devices": 9,
+      "expiry_date": "2026-05-11",
+      "status": "active",
+      "note": "1_week | devices: 9"
+    },
+    "JGS5917X67M5692B": {
+      "max_devices": 25,
+      "expiry_date": "2026-05-11",
+      "status": "active",
+      "note": "1_week | devices: 25"
+    },
+    "3SQR9BYIMAJJH7T5": {
+      "max_devices": 8,
+      "expiry_date": "2026-05-11",
+      "status": "active",
+      "note": "1_week | devices: 8"
+    },
+    "QR74KV5DWWFZKRFP": {
+      "max_devices": 42,
+      "expiry_date": "2026-05-11",
+      "status": "active",
+      "note": "1_week | devices: 42"
+    },
+    "PTGLY7QCKGBWFRH2": {
+      "max_devices": 30,
+      "expiry_date": "2026-05-11",
+      "status": "active",
+      "note": "1_week | devices: 30"
+    },
+    "P70OB8JQK5EVSH8P": {
+      "max_devices": 50,
+      "expiry_date": "2026-05-11",
+      "status": "active",
+      "note": "1_week | devices: 50"
+    },
+    "WRQAYPZW22DGNMCK": {
+      "max_devices": 30,
+      "expiry_date": "2026-05-11",
+      "status": "active",
+      "note": "1_week | devices: 30"
+    },
+    "GGKH2M6YUSI4P7S3": {
+      "max_devices": 93,
+      "expiry_date": "2026-05-11",
+      "status": "active",
+      "note": "1_week | devices: 93"
+    },
+    "CZT2TRBBNJ4GD0JQ": {
+      "max_devices": 33,
+      "expiry_date": "2026-05-11",
+      "status": "active",
+      "note": "1_week | devices: 33"
+    },
+    "8C081Q6T0JZ7IPJK": {
+      "max_devices": 58,
+      "expiry_date": "2026-05-11",
+      "status": "active",
+      "note": "1_week | devices: 58"
+    },
+    "TCKMNPD2MCS8YXPV": {
+      "max_devices": 14,
+      "expiry_date": "2026-05-11",
+      "status": "active",
+      "note": "1_week | devices: 14"
+    },
+    "B5MDM1H0VCGCEBRF": {
+      "max_devices": 68,
+      "expiry_date": "2026-05-11",
+      "status": "active",
+      "note": "1_week | devices: 68"
+    },
+    "7VT7IZ3O0VNDOJ94": {
+      "max_devices": 23,
+      "expiry_date": "2026-05-11",
+      "status": "active",
+      "note": "1_week | devices: 23"
+    },
+    "KRFRMUFZQ0MWRIOI": {
+      "max_devices": 73,
+      "expiry_date": "2026-05-11",
+      "status": "active",
+      "note": "1_week | devices: 73"
+    },
+    "RV1TIBOYTLDN8HVM": {
+      "max_devices": 94,
+      "expiry_date": "2026-05-11",
+      "status": "active",
+      "note": "1_week | devices: 94"
+    },
+    "4UPS6TXKYA0RVKRO": {
+      "max_devices": 63,
+      "expiry_date": "2026-05-18",
+      "status": "active",
+      "note": "2_weeks | devices: 63"
+    },
+    "E14M5CQU1P1SC473": {
+      "max_devices": 47,
+      "expiry_date": "2026-05-18",
+      "status": "active",
+      "note": "2_weeks | devices: 47"
+    },
+    "EEMMFVP75UVLCRNR": {
+      "max_devices": 26,
+      "expiry_date": "2026-05-18",
+      "status": "active",
+      "note": "2_weeks | devices: 26"
+    },
+    "QCX6B4BYP5XNEDXU": {
+      "max_devices": 58,
+      "expiry_date": "2026-05-18",
+      "status": "active",
+      "note": "2_weeks | devices: 58"
+    },
+    "BWM1W3JKKP0DIZIN": {
+      "max_devices": 48,
+      "expiry_date": "2026-05-18",
+      "status": "active",
+      "note": "2_weeks | devices: 48"
+    },
+    "P8TQXUKUOY4641OE": {
+      "max_devices": 51,
+      "expiry_date": "2026-05-18",
+      "status": "active",
+      "note": "2_weeks | devices: 51"
+    },
+    "QX4BOAJMQHZBB9HI": {
+      "max_devices": 81,
+      "expiry_date": "2026-05-18",
+      "status": "active",
+      "note": "2_weeks | devices: 81"
+    },
+    "L9NR2ZK9LZU7VWM4": {
+      "max_devices": 15,
+      "expiry_date": "2026-05-18",
+      "status": "active",
+      "note": "2_weeks | devices: 15"
+    },
+    "0TJDWAEBBJFNDNL4": {
+      "max_devices": 92,
+      "expiry_date": "2026-05-18",
+      "status": "active",
+      "note": "2_weeks | devices: 92"
+    },
+    "K7I529C1OBZIPB0N": {
+      "max_devices": 2,
+      "expiry_date": "2026-05-18",
+      "status": "active",
+      "note": "2_weeks | devices: 2"
+    },
+    "MSZA3NHAQZRP0T7U": {
+      "max_devices": 66,
+      "expiry_date": "2026-05-18",
+      "status": "active",
+      "note": "2_weeks | devices: 66"
+    },
+    "SYY3B4GBDRKSWBVU": {
+      "max_devices": 6,
+      "expiry_date": "2026-05-18",
+      "status": "active",
+      "note": "2_weeks | devices: 6"
+    },
+    "LVGXZ9RUAUPBXMWC": {
+      "max_devices": 37,
+      "expiry_date": "2026-05-18",
+      "status": "active",
+      "note": "2_weeks | devices: 37"
+    },
+    "YP12U28H8L41RIJ8": {
+      "max_devices": 68,
+      "expiry_date": "2026-05-18",
+      "status": "active",
+      "note": "2_weeks | devices: 68"
+    },
+    "7KJXQOIW1TDIGO8O": {
+      "max_devices": 99,
+      "expiry_date": "2026-05-18",
+      "status": "active",
+      "note": "2_weeks | devices: 99"
+    },
+    "2VNTSTLTUWF8KFY1": {
+      "max_devices": 24,
+      "expiry_date": "2026-05-18",
+      "status": "active",
+      "note": "2_weeks | devices: 24"
+    },
+    "L9HI7ZQWQ35N3M19": {
+      "max_devices": 67,
+      "expiry_date": "2026-05-18",
+      "status": "active",
+      "note": "2_weeks | devices: 67"
+    },
+    "JEVRF0ASK288S6QP": {
+      "max_devices": 60,
+      "expiry_date": "2026-05-18",
+      "status": "active",
+      "note": "2_weeks | devices: 60"
+    },
+    "OHYD0VUGB23YAQX5": {
+      "max_devices": 98,
+      "expiry_date": "2026-05-18",
+      "status": "active",
+      "note": "2_weeks | devices: 98"
+    },
+    "AEJ9G6P4M3ZRPJRI": {
+      "max_devices": 14,
+      "expiry_date": "2026-05-18",
+      "status": "active",
+      "note": "2_weeks | devices: 14"
+    },
+    "2H7GE6TBAAGEV5BZ": {
+      "max_devices": 67,
+      "expiry_date": "2026-05-18",
+      "status": "active",
+      "note": "2_weeks | devices: 67"
+    },
+    "WN77HR9HLVXC2MUL": {
+      "max_devices": 98,
+      "expiry_date": "2026-05-18",
+      "status": "active",
+      "note": "2_weeks | devices: 98"
+    },
+    "2S12YZHAS3NB1QJF": {
+      "max_devices": 38,
+      "expiry_date": "2026-05-18",
+      "status": "active",
+      "note": "2_weeks | devices: 38"
+    },
+    "3L4SWA7TKQ42XKN1": {
+      "max_devices": 2,
+      "expiry_date": "2026-05-18",
+      "status": "active",
+      "note": "2_weeks | devices: 2"
+    },
+    "HLRXA0PMJ2CK5XII": {
+      "max_devices": 67,
+      "expiry_date": "2026-05-18",
+      "status": "active",
+      "note": "2_weeks | devices: 67"
+    },
+    "JAC9YYYX8KZ8J53X": {
+      "max_devices": 20,
+      "expiry_date": "2026-05-18",
+      "status": "active",
+      "note": "2_weeks | devices: 20"
+    },
+    "G9Q54DMCGCJZ1KJU": {
+      "max_devices": 94,
+      "expiry_date": "2026-05-18",
+      "status": "active",
+      "note": "2_weeks | devices: 94"
+    },
+    "UI6A3Z174PWRWZM6": {
+      "max_devices": 21,
+      "expiry_date": "2026-05-18",
+      "status": "active",
+      "note": "2_weeks | devices: 21"
+    },
+    "ODOBQ83HJTRVG6M1": {
+      "max_devices": 35,
+      "expiry_date": "2026-05-18",
+      "status": "active",
+      "note": "2_weeks | devices: 35"
+    },
+    "GDXC9N0KUWVHHNQE": {
+      "max_devices": 18,
+      "expiry_date": "2026-05-18",
+      "status": "active",
+      "note": "2_weeks | devices: 18"
+    },
+    "9PNQLFPZDEN0IQ8J": {
+      "max_devices": 7,
+      "expiry_date": "2026-05-18",
+      "status": "active",
+      "note": "2_weeks | devices: 7"
+    },
+    "6TN5I6MDKNBHGGUZ": {
+      "max_devices": 68,
+      "expiry_date": "2026-05-18",
+      "status": "active",
+      "note": "2_weeks | devices: 68"
+    },
+    "FJVSK728DULTGYCK": {
+      "max_devices": 37,
+      "expiry_date": "2026-05-18",
+      "status": "active",
+      "note": "2_weeks | devices: 37"
+    },
+    "NLZGNIDQ6BQHWU0A": {
+      "max_devices": 45,
+      "expiry_date": "2026-05-18",
+      "status": "active",
+      "note": "2_weeks | devices: 45"
+    },
+    "FJPKODHL2Y2J20BU": {
+      "max_devices": 66,
+      "expiry_date": "2026-05-18",
+      "status": "active",
+      "note": "2_weeks | devices: 66"
+    },
+    "DLVXK9EPF91T6MH4": {
+      "max_devices": 68,
+      "expiry_date": "2026-05-18",
+      "status": "active",
+      "note": "2_weeks | devices: 68"
+    },
+    "ZPP6WZAZS02WD8N6": {
+      "max_devices": 11,
+      "expiry_date": "2026-05-18",
+      "status": "active",
+      "note": "2_weeks | devices: 11"
+    },
+    "6JCM7RMROF3T0EH2": {
+      "max_devices": 15,
+      "expiry_date": "2026-05-18",
+      "status": "active",
+      "note": "2_weeks | devices: 15"
+    },
+    "8LNC98E18F613P6Y": {
+      "max_devices": 66,
+      "expiry_date": "2026-05-18",
+      "status": "active",
+      "note": "2_weeks | devices: 66"
+    },
+    "MVNDB6G93GS8Y6IR": {
+      "max_devices": 35,
+      "expiry_date": "2026-05-18",
+      "status": "active",
+      "note": "2_weeks | devices: 35"
+    },
+    "L3KXWR1ZYA7PY3UI": {
+      "max_devices": 48,
+      "expiry_date": "2026-05-18",
+      "status": "active",
+      "note": "2_weeks | devices: 48"
+    },
+    "DQJO9GTNYY1OQVGQ": {
+      "max_devices": 33,
+      "expiry_date": "2026-05-18",
+      "status": "active",
+      "note": "2_weeks | devices: 33"
+    },
+    "ELIDRNKSHYBVD8VK": {
+      "max_devices": 11,
+      "expiry_date": "2026-05-18",
+      "status": "active",
+      "note": "2_weeks | devices: 11"
+    },
+    "V130YLORSPJ13GKC": {
+      "max_devices": 96,
+      "expiry_date": "2026-05-18",
+      "status": "active",
+      "note": "2_weeks | devices: 96"
+    },
+    "W6EE7NDWDPYKPTSR": {
+      "max_devices": 78,
+      "expiry_date": "2026-05-18",
+      "status": "active",
+      "note": "2_weeks | devices: 78"
+    },
+    "2EI7ELHYI5S99QMP": {
+      "max_devices": 28,
+      "expiry_date": "2026-05-18",
+      "status": "active",
+      "note": "2_weeks | devices: 28"
+    },
+    "ABE9POUEXD367K2P": {
+      "max_devices": 2,
+      "expiry_date": "2026-05-18",
+      "status": "active",
+      "note": "2_weeks | devices: 2"
+    },
+    "B7EZDRUK0ZHEHELI": {
+      "max_devices": 40,
+      "expiry_date": "2026-05-18",
+      "status": "active",
+      "note": "2_weeks | devices: 40"
+    },
+    "BDT50L0JAQA0X8H1": {
+      "max_devices": 12,
+      "expiry_date": "2026-05-18",
+      "status": "active",
+      "note": "2_weeks | devices: 12"
+    },
+    "MW2BF1K2EDYGA6XE": {
+      "max_devices": 70,
+      "expiry_date": "2026-05-18",
+      "status": "active",
+      "note": "2_weeks | devices: 70"
+    },
+    "F69802I6Y3LL2SB8": {
+      "max_devices": 16,
+      "expiry_date": "2026-05-18",
+      "status": "active",
+      "note": "2_weeks | devices: 16"
+    },
+    "KW246I4ZCPJ345E3": {
+      "max_devices": 49,
+      "expiry_date": "2026-05-18",
+      "status": "active",
+      "note": "2_weeks | devices: 49"
+    },
+    "8S9J71II5EAQZ9MQ": {
+      "max_devices": 41,
+      "expiry_date": "2026-05-18",
+      "status": "active",
+      "note": "2_weeks | devices: 41"
+    },
+    "RS0UUDOJI28B53DO": {
+      "max_devices": 41,
+      "expiry_date": "2026-05-18",
+      "status": "active",
+      "note": "2_weeks | devices: 41"
+    },
+    "M9QR2WGV2Z0N4GSB": {
+      "max_devices": 41,
+      "expiry_date": "2026-05-18",
+      "status": "active",
+      "note": "2_weeks | devices: 41"
+    },
+    "BF0K6KPPEPL7R5JI": {
+      "max_devices": 63,
+      "expiry_date": "2026-05-18",
+      "status": "active",
+      "note": "2_weeks | devices: 63"
+    },
+    "S6YBHR26JFXXZS5H": {
+      "max_devices": 98,
+      "expiry_date": "2026-05-18",
+      "status": "active",
+      "note": "2_weeks | devices: 98"
+    },
+    "0XAXZDADOJPN3I7F": {
+      "max_devices": 92,
+      "expiry_date": "2026-05-18",
+      "status": "active",
+      "note": "2_weeks | devices: 92"
+    },
+    "7C8TTACITN8JI12X": {
+      "max_devices": 84,
+      "expiry_date": "2026-05-18",
+      "status": "active",
+      "note": "2_weeks | devices: 84"
+    },
+    "EZN9UIR3TDCDH49P": {
+      "max_devices": 91,
+      "expiry_date": "2026-05-18",
+      "status": "active",
+      "note": "2_weeks | devices: 91"
+    },
+    "D3GLQHINELLXX9RK": {
+      "max_devices": 24,
+      "expiry_date": "2026-05-18",
+      "status": "active",
+      "note": "2_weeks | devices: 24"
+    },
+    "TWT742Z52XW93MHL": {
+      "max_devices": 78,
+      "expiry_date": "2026-05-18",
+      "status": "active",
+      "note": "2_weeks | devices: 78"
+    },
+    "C1J4FJOYXT9OQUVU": {
+      "max_devices": 74,
+      "expiry_date": "2026-05-18",
+      "status": "active",
+      "note": "2_weeks | devices: 74"
+    },
+    "C29M5FYIB6SML6C9": {
+      "max_devices": 7,
+      "expiry_date": "2026-05-18",
+      "status": "active",
+      "note": "2_weeks | devices: 7"
+    },
+    "UNQQHJU7T4ARWZAP": {
+      "max_devices": 22,
+      "expiry_date": "2026-05-18",
+      "status": "active",
+      "note": "2_weeks | devices: 22"
+    },
+    "SR7ZPN6CUZPSNJGN": {
+      "max_devices": 73,
+      "expiry_date": "2026-05-18",
+      "status": "active",
+      "note": "2_weeks | devices: 73"
+    },
+    "DPPUD1I65QCFTJPD": {
+      "max_devices": 5,
+      "expiry_date": "2026-05-18",
+      "status": "active",
+      "note": "2_weeks | devices: 5"
+    },
+    "KSXLEKJ9P1OOHE9H": {
+      "max_devices": 8,
+      "expiry_date": "2026-05-18",
+      "status": "active",
+      "note": "2_weeks | devices: 8"
+    },
+    "O1DMA69WJQX77CDK": {
+      "max_devices": 8,
+      "expiry_date": "2026-05-18",
+      "status": "active",
+      "note": "2_weeks | devices: 8"
+    },
+    "1BW68Y0QSTHMT1MG": {
+      "max_devices": 95,
+      "expiry_date": "2026-05-18",
+      "status": "active",
+      "note": "2_weeks | devices: 95"
+    },
+    "H6P31VYYL2V5BSVA": {
+      "max_devices": 55,
+      "expiry_date": "2026-05-18",
+      "status": "active",
+      "note": "2_weeks | devices: 55"
+    },
+    "SCADQVJJTTSVTNOC": {
+      "max_devices": 72,
+      "expiry_date": "2026-05-18",
+      "status": "active",
+      "note": "2_weeks | devices: 72"
+    },
+    "DK4TLOMZTD2YMPXP": {
+      "max_devices": 61,
+      "expiry_date": "2026-05-18",
+      "status": "active",
+      "note": "2_weeks | devices: 61"
+    },
+    "Q0I3EGYFZ3X2H1P0": {
+      "max_devices": 51,
+      "expiry_date": "2026-05-18",
+      "status": "active",
+      "note": "2_weeks | devices: 51"
+    },
+    "1DFINFSS4CL72TM9": {
+      "max_devices": 37,
+      "expiry_date": "2026-05-18",
+      "status": "active",
+      "note": "2_weeks | devices: 37"
+    },
+    "QWWYJNE63BEMBPB5": {
+      "max_devices": 31,
+      "expiry_date": "2026-05-18",
+      "status": "active",
+      "note": "2_weeks | devices: 31"
+    },
+    "KSUB7RBSRVEQ4BNC": {
+      "max_devices": 60,
+      "expiry_date": "2026-05-18",
+      "status": "active",
+      "note": "2_weeks | devices: 60"
+    },
+    "QX0FYZSE3H308FL1": {
+      "max_devices": 42,
+      "expiry_date": "2026-05-18",
+      "status": "active",
+      "note": "2_weeks | devices: 42"
+    },
+    "PAJKU9P5CKD9XXM5": {
+      "max_devices": 48,
+      "expiry_date": "2026-05-18",
+      "status": "active",
+      "note": "2_weeks | devices: 48"
+    },
+    "59W7LLV50G1QYZJC": {
+      "max_devices": 25,
+      "expiry_date": "2026-05-18",
+      "status": "active",
+      "note": "2_weeks | devices: 25"
+    },
+    "UMBFJNON5TPHO48Y": {
+      "max_devices": 60,
+      "expiry_date": "2026-05-18",
+      "status": "active",
+      "note": "2_weeks | devices: 60"
+    },
+    "KFBRFZZ9YPJYKQDG": {
+      "max_devices": 83,
+      "expiry_date": "2026-05-18",
+      "status": "active",
+      "note": "2_weeks | devices: 83"
+    },
+    "OY9FH9BG417XB38G": {
+      "max_devices": 49,
+      "expiry_date": "2026-05-18",
+      "status": "active",
+      "note": "2_weeks | devices: 49"
+    },
+    "YVHGOX1Z5H6CXZCP": {
+      "max_devices": 27,
+      "expiry_date": "2026-05-18",
+      "status": "active",
+      "note": "2_weeks | devices: 27"
+    },
+    "RY1JADOUMUBUKPB8": {
+      "max_devices": 3,
+      "expiry_date": "2026-05-18",
+      "status": "active",
+      "note": "2_weeks | devices: 3"
+    },
+    "KU2V713UVHJIP4VX": {
+      "max_devices": 10,
+      "expiry_date": "2026-05-18",
+      "status": "active",
+      "note": "2_weeks | devices: 10"
+    },
+    "W4YULF60P43IQX0X": {
+      "max_devices": 60,
+      "expiry_date": "2026-05-18",
+      "status": "active",
+      "note": "2_weeks | devices: 60"
+    },
+    "Q8DJS1ZIW0RE4055": {
+      "max_devices": 13,
+      "expiry_date": "2026-05-18",
+      "status": "active",
+      "note": "2_weeks | devices: 13"
+    },
+    "RB662P3NZXSWH4M4": {
+      "max_devices": 47,
+      "expiry_date": "2026-05-18",
+      "status": "active",
+      "note": "2_weeks | devices: 47"
+    },
+    "NR71RXG0N2NRBGR9": {
+      "max_devices": 38,
+      "expiry_date": "2026-05-18",
+      "status": "active",
+      "note": "2_weeks | devices: 38"
+    },
+    "ZJXES8WJTNUB9FIB": {
+      "max_devices": 100,
+      "expiry_date": "2026-05-18",
+      "status": "active",
+      "note": "2_weeks | devices: 100"
+    },
+    "UXIYW8EBG0JX7ESV": {
+      "max_devices": 68,
+      "expiry_date": "2026-05-18",
+      "status": "active",
+      "note": "2_weeks | devices: 68"
+    },
+    "EN7CXR07P5Q68SW9": {
+      "max_devices": 36,
+      "expiry_date": "2026-05-18",
+      "status": "active",
+      "note": "2_weeks | devices: 36"
+    },
+    "72WQ4S7LA5F3F9WV": {
+      "max_devices": 36,
+      "expiry_date": "2026-05-18",
+      "status": "active",
+      "note": "2_weeks | devices: 36"
+    },
+    "5BDK1BJ58T45EJPK": {
+      "max_devices": 86,
+      "expiry_date": "2026-05-18",
+      "status": "active",
+      "note": "2_weeks | devices: 86"
+    },
+    "ZF335RF3C209LDM4": {
+      "max_devices": 86,
+      "expiry_date": "2026-05-18",
+      "status": "active",
+      "note": "2_weeks | devices: 86"
+    },
+    "U49TG28J7BEXX13R": {
+      "max_devices": 76,
+      "expiry_date": "2026-05-18",
+      "status": "active",
+      "note": "2_weeks | devices: 76"
+    },
+    "VZ8MGMFHTA36SXOG": {
+      "max_devices": 35,
+      "expiry_date": "2026-05-18",
+      "status": "active",
+      "note": "2_weeks | devices: 35"
+    },
+    "BMV0UUBOO23TX9UX": {
+      "max_devices": 63,
+      "expiry_date": "2026-05-18",
+      "status": "active",
+      "note": "2_weeks | devices: 63"
+    },
+    "A1HBI1YUEY1I51CF": {
+      "max_devices": 97,
+      "expiry_date": "2026-05-18",
+      "status": "active",
+      "note": "2_weeks | devices: 97"
+    },
+    "ZPHBK6Z4Z2NCBDVE": {
+      "max_devices": 35,
+      "expiry_date": "2026-06-03",
+      "status": "active",
+      "note": "1_month | devices: 35"
+    },
+    "2IDT1A7T17Y0WJ90": {
+      "max_devices": 5,
+      "expiry_date": "2026-06-03",
+      "status": "active",
+      "note": "1_month | devices: 5"
+    },
+    "TUVGJDN0A4A594HU": {
+      "max_devices": 17,
+      "expiry_date": "2026-06-03",
+      "status": "active",
+      "note": "1_month | devices: 17"
+    },
+    "74I9IA3I96KI3MIC": {
+      "max_devices": 70,
+      "expiry_date": "2026-06-03",
+      "status": "active",
+      "note": "1_month | devices: 70"
+    },
+    "HZ0HD0DDO4RN3JJX": {
+      "max_devices": 23,
+      "expiry_date": "2026-06-03",
+      "status": "active",
+      "note": "1_month | devices: 23"
+    },
+    "MRO510O2QOZWRCQI": {
+      "max_devices": 22,
+      "expiry_date": "2026-06-03",
+      "status": "active",
+      "note": "1_month | devices: 22"
+    },
+    "6U0HUUIHIC4ZWCUQ": {
+      "max_devices": 3,
+      "expiry_date": "2026-06-03",
+      "status": "active",
+      "note": "1_month | devices: 3"
+    },
+    "Z4KOI5KS2GNFPC74": {
+      "max_devices": 45,
+      "expiry_date": "2026-06-03",
+      "status": "active",
+      "note": "1_month | devices: 45"
+    },
+    "GMN15UY29R1GZ8NK": {
+      "max_devices": 76,
+      "expiry_date": "2026-06-03",
+      "status": "active",
+      "note": "1_month | devices: 76"
+    },
+    "N6A9H3PZV5BZK86X": {
+      "max_devices": 76,
+      "expiry_date": "2026-06-03",
+      "status": "active",
+      "note": "1_month | devices: 76"
+    },
+    "2BG95207RJ6VJOLV": {
+      "max_devices": 25,
+      "expiry_date": "2026-06-03",
+      "status": "active",
+      "note": "1_month | devices: 25"
+    },
+    "FLSLU2MTCLNM6IOM": {
+      "max_devices": 6,
+      "expiry_date": "2026-06-03",
+      "status": "active",
+      "note": "1_month | devices: 6"
+    },
+    "6J9X8M3FUG48OARV": {
+      "max_devices": 69,
+      "expiry_date": "2026-06-03",
+      "status": "active",
+      "note": "1_month | devices: 69"
+    },
+    "8Y3Y0EGL5YKE44CG": {
+      "max_devices": 41,
+      "expiry_date": "2026-06-03",
+      "status": "active",
+      "note": "1_month | devices: 41"
+    },
+    "PG5FJFER880X1G8Z": {
+      "max_devices": 85,
+      "expiry_date": "2026-06-03",
+      "status": "active",
+      "note": "1_month | devices: 85"
+    },
+    "V7BLUCJFQJC3RUTN": {
+      "max_devices": 58,
+      "expiry_date": "2026-06-03",
+      "status": "active",
+      "note": "1_month | devices: 58"
+    },
+    "6S0LND7E35KAB3GD": {
+      "max_devices": 22,
+      "expiry_date": "2026-06-03",
+      "status": "active",
+      "note": "1_month | devices: 22"
+    },
+    "SGMJ033ZA3LZ19MW": {
+      "max_devices": 69,
+      "expiry_date": "2026-06-03",
+      "status": "active",
+      "note": "1_month | devices: 69"
+    },
+    "NYJG3U4HYZRH51OZ": {
+      "max_devices": 15,
+      "expiry_date": "2026-06-03",
+      "status": "active",
+      "note": "1_month | devices: 15"
+    },
+    "IUP0W1E6MJSC3CVY": {
+      "max_devices": 96,
+      "expiry_date": "2026-06-03",
+      "status": "active",
+      "note": "1_month | devices: 96"
+    },
+    "S8U2CBL0MJ0URN5T": {
+      "max_devices": 23,
+      "expiry_date": "2026-06-03",
+      "status": "active",
+      "note": "1_month | devices: 23"
+    },
+    "SMAQZAGT68B7413W": {
+      "max_devices": 31,
+      "expiry_date": "2026-06-03",
+      "status": "active",
+      "note": "1_month | devices: 31"
+    },
+    "Z5HWKMBTJTF33SR6": {
+      "max_devices": 62,
+      "expiry_date": "2026-06-03",
+      "status": "active",
+      "note": "1_month | devices: 62"
+    },
+    "G147RF6VM2XTN2I5": {
+      "max_devices": 15,
+      "expiry_date": "2026-06-03",
+      "status": "active",
+      "note": "1_month | devices: 15"
+    },
+    "OKS7HLUXKI8G0DK3": {
+      "max_devices": 73,
+      "expiry_date": "2026-06-03",
+      "status": "active",
+      "note": "1_month | devices: 73"
+    },
+    "UPZPSKRONERUHTKO": {
+      "max_devices": 70,
+      "expiry_date": "2026-06-03",
+      "status": "active",
+      "note": "1_month | devices: 70"
+    },
+    "OPVIAN0HE0MCR33F": {
+      "max_devices": 48,
+      "expiry_date": "2026-06-03",
+      "status": "active",
+      "note": "1_month | devices: 48"
+    },
+    "97CSLVQTUAHWE2J9": {
+      "max_devices": 79,
+      "expiry_date": "2026-06-03",
+      "status": "active",
+      "note": "1_month | devices: 79"
+    },
+    "PLF1DZGLX8QUWCE6": {
+      "max_devices": 74,
+      "expiry_date": "2026-06-03",
+      "status": "active",
+      "note": "1_month | devices: 74"
+    },
+    "2KI0DHNJK36Q99FT": {
+      "max_devices": 47,
+      "expiry_date": "2026-06-03",
+      "status": "active",
+      "note": "1_month | devices: 47"
+    },
+    "11FSB1IYVII4LF3X": {
+      "max_devices": 29,
+      "expiry_date": "2026-06-03",
+      "status": "active",
+      "note": "1_month | devices: 29"
+    },
+    "MXMXOB5DLLZPCC41": {
+      "max_devices": 84,
+      "expiry_date": "2026-06-03",
+      "status": "active",
+      "note": "1_month | devices: 84"
+    },
+    "R38PU3AGNJEI80DC": {
+      "max_devices": 12,
+      "expiry_date": "2026-06-03",
+      "status": "active",
+      "note": "1_month | devices: 12"
+    },
+    "1YI2IVO2PSDKWXCA": {
+      "max_devices": 79,
+      "expiry_date": "2026-06-03",
+      "status": "active",
+      "note": "1_month | devices: 79"
+    },
+    "YH3N4B06M94316AD": {
+      "max_devices": 58,
+      "expiry_date": "2026-06-03",
+      "status": "active",
+      "note": "1_month | devices: 58"
+    },
+    "839SK10UGFMVYMD2": {
+      "max_devices": 13,
+      "expiry_date": "2026-06-03",
+      "status": "active",
+      "note": "1_month | devices: 13"
+    },
+    "IGY4ZW3UB9B346GA": {
+      "max_devices": 50,
+      "expiry_date": "2026-06-03",
+      "status": "active",
+      "note": "1_month | devices: 50"
+    },
+    "2O253MI7OKDK4L0E": {
+      "max_devices": 10,
+      "expiry_date": "2026-06-03",
+      "status": "active",
+      "note": "1_month | devices: 10"
+    },
+    "C9YYKW1TAX387K1X": {
+      "max_devices": 77,
+      "expiry_date": "2026-06-03",
+      "status": "active",
+      "note": "1_month | devices: 77"
+    },
+    "GOXG1AENKC412E7F": {
+      "max_devices": 45,
+      "expiry_date": "2026-06-03",
+      "status": "active",
+      "note": "1_month | devices: 45"
+    },
+    "U6QXZ03JI5N4NU1Y": {
+      "max_devices": 60,
+      "expiry_date": "2026-06-03",
+      "status": "active",
+      "note": "1_month | devices: 60"
+    },
+    "LYXBPDNHMIKXUCK9": {
+      "max_devices": 97,
+      "expiry_date": "2026-06-03",
+      "status": "active",
+      "note": "1_month | devices: 97"
+    },
+    "EOQ8BX12MRRRI7FC": {
+      "max_devices": 10,
+      "expiry_date": "2026-06-03",
+      "status": "active",
+      "note": "1_month | devices: 10"
+    },
+    "2UZF50FYOEU1VBNO": {
+      "max_devices": 67,
+      "expiry_date": "2026-06-03",
+      "status": "active",
+      "note": "1_month | devices: 67"
+    },
+    "IQCAKOREY4H0CZ7Y": {
+      "max_devices": 97,
+      "expiry_date": "2026-06-03",
+      "status": "active",
+      "note": "1_month | devices: 97"
+    },
+    "YHGZ28QIUYEHA0WT": {
+      "max_devices": 10,
+      "expiry_date": "2026-06-03",
+      "status": "active",
+      "note": "1_month | devices: 10"
+    },
+    "UU7OW9LVMCTM36CH": {
+      "max_devices": 23,
+      "expiry_date": "2026-06-03",
+      "status": "active",
+      "note": "1_month | devices: 23"
+    },
+    "BEZ1SMBF8KLKH4NV": {
+      "max_devices": 88,
+      "expiry_date": "2026-06-03",
+      "status": "active",
+      "note": "1_month | devices: 88"
+    },
+    "ILC1F1UZRGY4VRZC": {
+      "max_devices": 6,
+      "expiry_date": "2026-06-03",
+      "status": "active",
+      "note": "1_month | devices: 6"
+    },
+    "GYJXLNWIB9WUUNYT": {
+      "max_devices": 7,
+      "expiry_date": "2026-06-03",
+      "status": "active",
+      "note": "1_month | devices: 7"
+    },
+    "I04ZMCUAZI0MKKMG": {
+      "max_devices": 8,
+      "expiry_date": "2026-06-03",
+      "status": "active",
+      "note": "1_month | devices: 8"
+    },
+    "HK2YS4Y3TJKA4XEE": {
+      "max_devices": 91,
+      "expiry_date": "2026-06-03",
+      "status": "active",
+      "note": "1_month | devices: 91"
+    },
+    "KJ8QI2Y42OP4TPVA": {
+      "max_devices": 29,
+      "expiry_date": "2026-06-03",
+      "status": "active",
+      "note": "1_month | devices: 29"
+    },
+    "5W6NK2W8LE438XXI": {
+      "max_devices": 98,
+      "expiry_date": "2026-06-03",
+      "status": "active",
+      "note": "1_month | devices: 98"
+    },
+    "CDWQDLAL3BVHZ2KE": {
+      "max_devices": 4,
+      "expiry_date": "2026-06-03",
+      "status": "active",
+      "note": "1_month | devices: 4"
+    },
+    "IT3Q9R09OZDX4RAO": {
+      "max_devices": 44,
+      "expiry_date": "2026-06-03",
+      "status": "active",
+      "note": "1_month | devices: 44"
+    },
+    "N2FPCTSQV1UAD4WL": {
+      "max_devices": 62,
+      "expiry_date": "2026-06-03",
+      "status": "active",
+      "note": "1_month | devices: 62"
+    },
+    "34VHG1C8P5VTISM7": {
+      "max_devices": 82,
+      "expiry_date": "2026-06-03",
+      "status": "active",
+      "note": "1_month | devices: 82"
+    },
+    "GQDOPO2DRK1NWGR8": {
+      "max_devices": 83,
+      "expiry_date": "2026-06-03",
+      "status": "active",
+      "note": "1_month | devices: 83"
+    },
+    "CUMGJYACD31IFKG1": {
+      "max_devices": 34,
+      "expiry_date": "2026-06-03",
+      "status": "active",
+      "note": "1_month | devices: 34"
+    },
+    "GZ71U5KDSJN8HZL9": {
+      "max_devices": 75,
+      "expiry_date": "2026-06-03",
+      "status": "active",
+      "note": "1_month | devices: 75"
+    },
+    "V25KA59YSBCWS905": {
+      "max_devices": 18,
+      "expiry_date": "2026-06-03",
+      "status": "active",
+      "note": "1_month | devices: 18"
+    },
+    "UHJ5FKXASAKTHNWP": {
+      "max_devices": 36,
+      "expiry_date": "2026-06-03",
+      "status": "active",
+      "note": "1_month | devices: 36"
+    },
+    "X3SNEL4VI6DJ7BBE": {
+      "max_devices": 12,
+      "expiry_date": "2026-06-03",
+      "status": "active",
+      "note": "1_month | devices: 12"
+    },
+    "5FY4Q8TM0WKJ9YAF": {
+      "max_devices": 41,
+      "expiry_date": "2026-06-03",
+      "status": "active",
+      "note": "1_month | devices: 41"
+    },
+    "RJ2YLZKONEW91GF8": {
+      "max_devices": 68,
+      "expiry_date": "2026-06-03",
+      "status": "active",
+      "note": "1_month | devices: 68"
+    },
+    "9650YR5BUOY97WIG": {
+      "max_devices": 15,
+      "expiry_date": "2026-06-03",
+      "status": "active",
+      "note": "1_month | devices: 15"
+    },
+    "ZI06XZXTWP5Z7IV4": {
+      "max_devices": 41,
+      "expiry_date": "2026-06-03",
+      "status": "active",
+      "note": "1_month | devices: 41"
+    },
+    "OMAZOWI26HRMRG1X": {
+      "max_devices": 92,
+      "expiry_date": "2026-06-03",
+      "status": "active",
+      "note": "1_month | devices: 92"
+    },
+    "F7WRRKJL6EBBCIV7": {
+      "max_devices": 5,
+      "expiry_date": "2026-06-03",
+      "status": "active",
+      "note": "1_month | devices: 5"
+    },
+    "XGO3EC1KHWIW6LWG": {
+      "max_devices": 92,
+      "expiry_date": "2026-06-03",
+      "status": "active",
+      "note": "1_month | devices: 92"
+    },
+    "Z8F2V0E3NZ3BY7AX": {
+      "max_devices": 98,
+      "expiry_date": "2026-06-03",
+      "status": "active",
+      "note": "1_month | devices: 98"
+    },
+    "IQII0AR8OCCT24YI": {
+      "max_devices": 79,
+      "expiry_date": "2026-06-03",
+      "status": "active",
+      "note": "1_month | devices: 79"
+    },
+    "QLFISG2MTLN2OGLZ": {
+      "max_devices": 68,
+      "expiry_date": "2026-06-03",
+      "status": "active",
+      "note": "1_month | devices: 68"
+    },
+    "NI3SFSCVSNHIMWRS": {
+      "max_devices": 31,
+      "expiry_date": "2026-06-03",
+      "status": "active",
+      "note": "1_month | devices: 31"
+    },
+    "E8FNTFG9SC6ZTPE6": {
+      "max_devices": 40,
+      "expiry_date": "2026-06-03",
+      "status": "active",
+      "note": "1_month | devices: 40"
+    },
+    "M7E4VUFIHG7SA528": {
+      "max_devices": 56,
+      "expiry_date": "2026-06-03",
+      "status": "active",
+      "note": "1_month | devices: 56"
+    },
+    "05FUE47ECVF9G27Q": {
+      "max_devices": 28,
+      "expiry_date": "2026-06-03",
+      "status": "active",
+      "note": "1_month | devices: 28"
+    },
+    "BOB0424F2EYEOUE6": {
+      "max_devices": 35,
+      "expiry_date": "2026-06-03",
+      "status": "active",
+      "note": "1_month | devices: 35"
+    },
+    "O26N1IK1PYJ0UVYJ": {
+      "max_devices": 73,
+      "expiry_date": "2026-06-03",
+      "status": "active",
+      "note": "1_month | devices: 73"
+    },
+    "C2KZWZEBG8YJ0GDS": {
+      "max_devices": 87,
+      "expiry_date": "2026-06-03",
+      "status": "active",
+      "note": "1_month | devices: 87"
+    },
+    "CD3VIRRRTYKOTUHM": {
+      "max_devices": 82,
+      "expiry_date": "2026-06-03",
+      "status": "active",
+      "note": "1_month | devices: 82"
+    },
+    "SQDTEKOO2OIM1P2X": {
+      "max_devices": 46,
+      "expiry_date": "2026-06-03",
+      "status": "active",
+      "note": "1_month | devices: 46"
+    },
+    "UHOADA9PX42OER6B": {
+      "max_devices": 56,
+      "expiry_date": "2026-06-03",
+      "status": "active",
+      "note": "1_month | devices: 56"
+    },
+    "3L9AT1SKRV9HSB72": {
+      "max_devices": 62,
+      "expiry_date": "2026-06-03",
+      "status": "active",
+      "note": "1_month | devices: 62"
+    },
+    "OJ1VCDLFPIGC1AXE": {
+      "max_devices": 76,
+      "expiry_date": "2026-06-03",
+      "status": "active",
+      "note": "1_month | devices: 76"
+    },
+    "1SD75QKU6422EJF6": {
+      "max_devices": 64,
+      "expiry_date": "2026-06-03",
+      "status": "active",
+      "note": "1_month | devices: 64"
+    },
+    "TKQ9S647E7GTU49Y": {
+      "max_devices": 47,
+      "expiry_date": "2026-06-03",
+      "status": "active",
+      "note": "1_month | devices: 47"
+    },
+    "4013MELM7ZW4B5H5": {
+      "max_devices": 15,
+      "expiry_date": "2026-06-03",
+      "status": "active",
+      "note": "1_month | devices: 15"
+    },
+    "SYB5D5PQ4J17TX15": {
+      "max_devices": 79,
+      "expiry_date": "2026-06-03",
+      "status": "active",
+      "note": "1_month | devices: 79"
+    },
+    "AIKKSLEUXHS6VZ8C": {
+      "max_devices": 97,
+      "expiry_date": "2026-06-03",
+      "status": "active",
+      "note": "1_month | devices: 97"
+    },
+    "HZX3MHO1YDC077GI": {
+      "max_devices": 96,
+      "expiry_date": "2026-06-03",
+      "status": "active",
+      "note": "1_month | devices: 96"
+    },
+    "9F6A2NUZ3ZHEV86R": {
+      "max_devices": 88,
+      "expiry_date": "2026-06-03",
+      "status": "active",
+      "note": "1_month | devices: 88"
+    },
+    "XV1PK4R1FOP9PA05": {
+      "max_devices": 31,
+      "expiry_date": "2026-06-03",
+      "status": "active",
+      "note": "1_month | devices: 31"
+    },
+    "YRMOPGXB4HX2HEB2": {
+      "max_devices": 24,
+      "expiry_date": "2026-06-03",
+      "status": "active",
+      "note": "1_month | devices: 24"
+    },
+    "HSTM68VB9P8MCKET": {
+      "max_devices": 17,
+      "expiry_date": "2026-06-03",
+      "status": "active",
+      "note": "1_month | devices: 17"
+    },
+    "QTZQWP82WLAGQZVG": {
+      "max_devices": 48,
+      "expiry_date": "2026-06-03",
+      "status": "active",
+      "note": "1_month | devices: 48"
+    },
+    "4IJMDQIAN0WQ5J9E": {
+      "max_devices": 28,
+      "expiry_date": "2026-06-03",
+      "status": "active",
+      "note": "1_month | devices: 28"
+    },
+    "EQVO3NWNEBAXA6OR": {
+      "max_devices": 89,
+      "expiry_date": "2026-06-03",
+      "status": "active",
+      "note": "1_month | devices: 89"
+    },
+    "DHQJV2DY544WQI8S": {
+      "max_devices": 71,
+      "expiry_date": "2026-06-03",
+      "status": "active",
+      "note": "1_month | devices: 71"
+    },
+    "3X0YZ238SJJQW5OY": {
+      "max_devices": 18,
+      "expiry_date": "2026-07-03",
+      "status": "active",
+      "note": "2_months | devices: 18"
+    },
+    "HXQO5P9XZ0OHFPJV": {
+      "max_devices": 45,
+      "expiry_date": "2026-07-03",
+      "status": "active",
+      "note": "2_months | devices: 45"
+    },
+    "1R0NTA9JFHTFH82H": {
+      "max_devices": 75,
+      "expiry_date": "2026-07-03",
+      "status": "active",
+      "note": "2_months | devices: 75"
+    },
+    "NWCCWK7R0DKPQR5F": {
+      "max_devices": 48,
+      "expiry_date": "2026-07-03",
+      "status": "active",
+      "note": "2_months | devices: 48"
+    },
+    "ODEHZ5S5S16R6ZDF": {
+      "max_devices": 86,
+      "expiry_date": "2026-07-03",
+      "status": "active",
+      "note": "2_months | devices: 86"
+    },
+    "AGTIHNJSI29503JR": {
+      "max_devices": 62,
+      "expiry_date": "2026-07-03",
+      "status": "active",
+      "note": "2_months | devices: 62"
+    },
+    "FMFN3NDLYFUTTCBS": {
+      "max_devices": 98,
+      "expiry_date": "2026-07-03",
+      "status": "active",
+      "note": "2_months | devices: 98"
+    },
+    "T3KSC5QXD0QBA2KZ": {
+      "max_devices": 1,
+      "expiry_date": "2026-07-03",
+      "status": "active",
+      "note": "2_months | devices: 1"
+    },
+    "3E36CKP3SXLGEPBC": {
+      "max_devices": 26,
+      "expiry_date": "2026-07-03",
+      "status": "active",
+      "note": "2_months | devices: 26"
+    },
+    "XV2LR62YH7X4QCIE": {
+      "max_devices": 15,
+      "expiry_date": "2026-07-03",
+      "status": "active",
+      "note": "2_months | devices: 15"
+    },
+    "L4YDHQQUFF22KKCN": {
+      "max_devices": 17,
+      "expiry_date": "2026-07-03",
+      "status": "active",
+      "note": "2_months | devices: 17"
+    },
+    "Z5WDSC8BU7ADAD2C": {
+      "max_devices": 23,
+      "expiry_date": "2026-07-03",
+      "status": "active",
+      "note": "2_months | devices: 23"
+    },
+    "SU0GV6MLP7EA66I7": {
+      "max_devices": 16,
+      "expiry_date": "2026-07-03",
+      "status": "active",
+      "note": "2_months | devices: 16"
+    },
+    "PFHZR3C2M90GH3FQ": {
+      "max_devices": 22,
+      "expiry_date": "2026-07-03",
+      "status": "active",
+      "note": "2_months | devices: 22"
+    },
+    "7O9XCAZ7SFOJTJD1": {
+      "max_devices": 25,
+      "expiry_date": "2026-07-03",
+      "status": "active",
+      "note": "2_months | devices: 25"
+    },
+    "XUYKYC6LQ03HH13W": {
+      "max_devices": 45,
+      "expiry_date": "2026-07-03",
+      "status": "active",
+      "note": "2_months | devices: 45"
+    },
+    "9HG50QCB0ULKER45": {
+      "max_devices": 98,
+      "expiry_date": "2026-07-03",
+      "status": "active",
+      "note": "2_months | devices: 98"
+    },
+    "3F2Z1NB5Z0WEO55D": {
+      "max_devices": 30,
+      "expiry_date": "2026-07-03",
+      "status": "active",
+      "note": "2_months | devices: 30"
+    },
+    "O7QQKUVDG3CMZW8X": {
+      "max_devices": 68,
+      "expiry_date": "2026-07-03",
+      "status": "active",
+      "note": "2_months | devices: 68"
+    },
+    "GR0HPCEQ50S78GT5": {
+      "max_devices": 96,
+      "expiry_date": "2026-07-03",
+      "status": "active",
+      "note": "2_months | devices: 96"
+    },
+    "ZDDWC0M4N0YFY6MV": {
+      "max_devices": 83,
+      "expiry_date": "2026-07-03",
+      "status": "active",
+      "note": "2_months | devices: 83"
+    },
+    "69WJ9NGFZW8FV2LQ": {
+      "max_devices": 52,
+      "expiry_date": "2026-07-03",
+      "status": "active",
+      "note": "2_months | devices: 52"
+    },
+    "HL12LA7132RRL8QX": {
+      "max_devices": 36,
+      "expiry_date": "2026-07-03",
+      "status": "active",
+      "note": "2_months | devices: 36"
+    },
+    "UZWV9JZ94BVW0YLL": {
+      "max_devices": 91,
+      "expiry_date": "2026-07-03",
+      "status": "active",
+      "note": "2_months | devices: 91"
+    },
+    "XFGR54Z6A1E63D1G": {
+      "max_devices": 41,
+      "expiry_date": "2026-07-03",
+      "status": "active",
+      "note": "2_months | devices: 41"
+    },
+    "BOX4N5X4LH6XUAZT": {
+      "max_devices": 11,
+      "expiry_date": "2026-07-03",
+      "status": "active",
+      "note": "2_months | devices: 11"
+    },
+    "QKLH0TESPYVABO8Y": {
+      "max_devices": 29,
+      "expiry_date": "2026-07-03",
+      "status": "active",
+      "note": "2_months | devices: 29"
+    },
+    "ESA42Q7PMIVJ0P2U": {
+      "max_devices": 10,
+      "expiry_date": "2026-07-03",
+      "status": "active",
+      "note": "2_months | devices: 10"
+    },
+    "UVOEW1Z69AD7335D": {
+      "max_devices": 24,
+      "expiry_date": "2026-07-03",
+      "status": "active",
+      "note": "2_months | devices: 24"
+    },
+    "QJE1U13AQT7RQHGF": {
+      "max_devices": 49,
+      "expiry_date": "2026-07-03",
+      "status": "active",
+      "note": "2_months | devices: 49"
+    },
+    "TFX3PANOD8K8TOBJ": {
+      "max_devices": 4,
+      "expiry_date": "2026-07-03",
+      "status": "active",
+      "note": "2_months | devices: 4"
+    },
+    "1NXIU4KDSIBE8K3W": {
+      "max_devices": 45,
+      "expiry_date": "2026-07-03",
+      "status": "active",
+      "note": "2_months | devices: 45"
+    },
+    "3T33SG7INMNLC8MA": {
+      "max_devices": 20,
+      "expiry_date": "2026-07-03",
+      "status": "active",
+      "note": "2_months | devices: 20"
+    },
+    "2K34MWDURCDC15RH": {
+      "max_devices": 54,
+      "expiry_date": "2026-07-03",
+      "status": "active",
+      "note": "2_months | devices: 54"
+    },
+    "K8OR4B4HPFR29WR8": {
+      "max_devices": 19,
+      "expiry_date": "2026-07-03",
+      "status": "active",
+      "note": "2_months | devices: 19"
+    },
+    "4JJZMXC1PO8521FL": {
+      "max_devices": 66,
+      "expiry_date": "2026-07-03",
+      "status": "active",
+      "note": "2_months | devices: 66"
+    },
+    "GUPPUSFJP5WW4VTZ": {
+      "max_devices": 77,
+      "expiry_date": "2026-07-03",
+      "status": "active",
+      "note": "2_months | devices: 77"
+    },
+    "WQI436BYL91KLU1N": {
+      "max_devices": 86,
+      "expiry_date": "2026-07-03",
+      "status": "active",
+      "note": "2_months | devices: 86"
+    },
+    "UJ6JY9VTIFISXGIL": {
+      "max_devices": 20,
+      "expiry_date": "2026-07-03",
+      "status": "active",
+      "note": "2_months | devices: 20"
+    },
+    "HUETH160969BH8CQ": {
+      "max_devices": 16,
+      "expiry_date": "2026-07-03",
+      "status": "active",
+      "note": "2_months | devices: 16"
+    },
+    "CLFWN289O2ENJDTD": {
+      "max_devices": 83,
+      "expiry_date": "2026-07-03",
+      "status": "active",
+      "note": "2_months | devices: 83"
+    },
+    "0HD8HV0E0V7I3HQV": {
+      "max_devices": 44,
+      "expiry_date": "2026-07-03",
+      "status": "active",
+      "note": "2_months | devices: 44"
+    },
+    "6YAWZT47A76WGERT": {
+      "max_devices": 47,
+      "expiry_date": "2026-07-03",
+      "status": "active",
+      "note": "2_months | devices: 47"
+    },
+    "YVYAEWEXLO5ZSKBI": {
+      "max_devices": 43,
+      "expiry_date": "2026-07-03",
+      "status": "active",
+      "note": "2_months | devices: 43"
+    },
+    "0N73UFPNQZPIXVJ5": {
+      "max_devices": 85,
+      "expiry_date": "2026-07-03",
+      "status": "active",
+      "note": "2_months | devices: 85"
+    },
+    "0Z0BUNXV2XAVICWJ": {
+      "max_devices": 21,
+      "expiry_date": "2026-07-03",
+      "status": "active",
+      "note": "2_months | devices: 21"
+    },
+    "WNVM97SLE68DLDVG": {
+      "max_devices": 69,
+      "expiry_date": "2026-07-03",
+      "status": "active",
+      "note": "2_months | devices: 69"
+    },
+    "6TRQ130SIPAFP5AV": {
+      "max_devices": 95,
+      "expiry_date": "2026-07-03",
+      "status": "active",
+      "note": "2_months | devices: 95"
+    },
+    "W6ZMA5ETCACUY5A2": {
+      "max_devices": 50,
+      "expiry_date": "2026-07-03",
+      "status": "active",
+      "note": "2_months | devices: 50"
+    },
+    "TDFEO51GVOPOIYP5": {
+      "max_devices": 85,
+      "expiry_date": "2026-07-03",
+      "status": "active",
+      "note": "2_months | devices: 85"
+    },
+    "WTRO999AB01WRTMX": {
+      "max_devices": 18,
+      "expiry_date": "2026-07-03",
+      "status": "active",
+      "note": "2_months | devices: 18"
+    },
+    "Z8ZB4G60XUCAB76P": {
+      "max_devices": 37,
+      "expiry_date": "2026-07-03",
+      "status": "active",
+      "note": "2_months | devices: 37"
+    },
+    "9CW5EHM7JDS0QGI7": {
+      "max_devices": 86,
+      "expiry_date": "2026-07-03",
+      "status": "active",
+      "note": "2_months | devices: 86"
+    },
+    "A99GPXYWQIRKKR0B": {
+      "max_devices": 81,
+      "expiry_date": "2026-07-03",
+      "status": "active",
+      "note": "2_months | devices: 81"
+    },
+    "T7PIL9HNQ7C27V8O": {
+      "max_devices": 9,
+      "expiry_date": "2026-07-03",
+      "status": "active",
+      "note": "2_months | devices: 9"
+    },
+    "FBKPBO7QLB6DBH25": {
+      "max_devices": 93,
+      "expiry_date": "2026-07-03",
+      "status": "active",
+      "note": "2_months | devices: 93"
+    },
+    "2FUCDNCWOQS4T7FW": {
+      "max_devices": 68,
+      "expiry_date": "2026-07-03",
+      "status": "active",
+      "note": "2_months | devices: 68"
+    },
+    "A3JV4ES7P1BJXAXI": {
+      "max_devices": 100,
+      "expiry_date": "2026-07-03",
+      "status": "active",
+      "note": "2_months | devices: 100"
+    },
+    "PC1E662BKYNFMCEV": {
+      "max_devices": 70,
+      "expiry_date": "2026-07-03",
+      "status": "active",
+      "note": "2_months | devices: 70"
+    },
+    "3OKF6ELX8FIZ7309": {
+      "max_devices": 73,
+      "expiry_date": "2026-07-03",
+      "status": "active",
+      "note": "2_months | devices: 73"
+    },
+    "5W4AYZGS32DQCMZO": {
+      "max_devices": 83,
+      "expiry_date": "2026-07-03",
+      "status": "active",
+      "note": "2_months | devices: 83"
+    },
+    "D75XN8VV4L92ELW8": {
+      "max_devices": 79,
+      "expiry_date": "2026-07-03",
+      "status": "active",
+      "note": "2_months | devices: 79"
+    },
+    "S730GU1UZYY6Y7V6": {
+      "max_devices": 67,
+      "expiry_date": "2026-07-03",
+      "status": "active",
+      "note": "2_months | devices: 67"
+    },
+    "TU7NLSWZSMYJ4JHT": {
+      "max_devices": 64,
+      "expiry_date": "2026-07-03",
+      "status": "active",
+      "note": "2_months | devices: 64"
+    },
+    "75FNG1GYNH7H0GOA": {
+      "max_devices": 81,
+      "expiry_date": "2026-07-03",
+      "status": "active",
+      "note": "2_months | devices: 81"
+    },
+    "YE3NPGUM17ZYK8KK": {
+      "max_devices": 29,
+      "expiry_date": "2026-07-03",
+      "status": "active",
+      "note": "2_months | devices: 29"
+    },
+    "EQ267EUA6M9US5QE": {
+      "max_devices": 76,
+      "expiry_date": "2026-07-03",
+      "status": "active",
+      "note": "2_months | devices: 76"
+    },
+    "ZGFG8PORJUKIFW82": {
+      "max_devices": 32,
+      "expiry_date": "2026-07-03",
+      "status": "active",
+      "note": "2_months | devices: 32"
+    },
+    "SUK8NP2QZCKSRB2H": {
+      "max_devices": 23,
+      "expiry_date": "2026-07-03",
+      "status": "active",
+      "note": "2_months | devices: 23"
+    },
+    "Z3W7XO634SN1ALM3": {
+      "max_devices": 62,
+      "expiry_date": "2026-07-03",
+      "status": "active",
+      "note": "2_months | devices: 62"
+    },
+    "5J56ZKMRWF4SLUJK": {
+      "max_devices": 76,
+      "expiry_date": "2026-07-03",
+      "status": "active",
+      "note": "2_months | devices: 76"
+    },
+    "GASZE88RWDSQ6OCZ": {
+      "max_devices": 65,
+      "expiry_date": "2026-07-03",
+      "status": "active",
+      "note": "2_months | devices: 65"
+    },
+    "9OUE0Z2F7MYTMEY8": {
+      "max_devices": 86,
+      "expiry_date": "2026-07-03",
+      "status": "active",
+      "note": "2_months | devices: 86"
+    },
+    "HKE9S0GKYIDEDNJV": {
+      "max_devices": 33,
+      "expiry_date": "2026-07-03",
+      "status": "active",
+      "note": "2_months | devices: 33"
+    },
+    "NN3XFXJ04WJGMDXP": {
+      "max_devices": 20,
+      "expiry_date": "2026-07-03",
+      "status": "active",
+      "note": "2_months | devices: 20"
+    },
+    "TAZEJ1HCRCSO3LGS": {
+      "max_devices": 82,
+      "expiry_date": "2026-07-03",
+      "status": "active",
+      "note": "2_months | devices: 82"
+    },
+    "7YJUYHASGHZ5SP9B": {
+      "max_devices": 79,
+      "expiry_date": "2026-07-03",
+      "status": "active",
+      "note": "2_months | devices: 79"
+    },
+    "5MHAXSAYD2BY11SP": {
+      "max_devices": 10,
+      "expiry_date": "2026-07-03",
+      "status": "active",
+      "note": "2_months | devices: 10"
+    },
+    "EP3LG2NJHAS651XA": {
+      "max_devices": 95,
+      "expiry_date": "2026-07-03",
+      "status": "active",
+      "note": "2_months | devices: 95"
+    },
+    "OLN6LNULD163E0GI": {
+      "max_devices": 45,
+      "expiry_date": "2026-07-03",
+      "status": "active",
+      "note": "2_months | devices: 45"
+    },
+    "22NAYXN106SV8AZH": {
+      "max_devices": 23,
+      "expiry_date": "2026-07-03",
+      "status": "active",
+      "note": "2_months | devices: 23"
+    },
+    "1GOYBDO8M1D6QH0Q": {
+      "max_devices": 64,
+      "expiry_date": "2026-07-03",
+      "status": "active",
+      "note": "2_months | devices: 64"
+    },
+    "3MFOXC2BVO9VMVZA": {
+      "max_devices": 89,
+      "expiry_date": "2026-07-03",
+      "status": "active",
+      "note": "2_months | devices: 89"
+    },
+    "N4GNZ8QX7GEGWH6M": {
+      "max_devices": 52,
+      "expiry_date": "2026-07-03",
+      "status": "active",
+      "note": "2_months | devices: 52"
+    },
+    "YRKCY6A4OAAA18Q6": {
+      "max_devices": 16,
+      "expiry_date": "2026-07-03",
+      "status": "active",
+      "note": "2_months | devices: 16"
+    },
+    "RKIQRALIFT5UKDUM": {
+      "max_devices": 25,
+      "expiry_date": "2026-07-03",
+      "status": "active",
+      "note": "2_months | devices: 25"
+    },
+    "9CFQD6A8UCNJP8SX": {
+      "max_devices": 77,
+      "expiry_date": "2026-07-03",
+      "status": "active",
+      "note": "2_months | devices: 77"
+    },
+    "YVOJDXCZ8VTCQDYB": {
+      "max_devices": 54,
+      "expiry_date": "2026-07-03",
+      "status": "active",
+      "note": "2_months | devices: 54"
+    },
+    "1C7JXRPESSLTOS86": {
+      "max_devices": 37,
+      "expiry_date": "2026-07-03",
+      "status": "active",
+      "note": "2_months | devices: 37"
+    },
+    "5G0EVHN0V6BP9D8P": {
+      "max_devices": 27,
+      "expiry_date": "2026-07-03",
+      "status": "active",
+      "note": "2_months | devices: 27"
+    },
+    "P4KP1ATD4XLK05EE": {
+      "max_devices": 67,
+      "expiry_date": "2026-07-03",
+      "status": "active",
+      "note": "2_months | devices: 67"
+    },
+    "IBCSPGUO667U6U6Y": {
+      "max_devices": 45,
+      "expiry_date": "2026-07-03",
+      "status": "active",
+      "note": "2_months | devices: 45"
+    },
+    "15ZN3JWG8HYTVKV8": {
+      "max_devices": 43,
+      "expiry_date": "2026-07-03",
+      "status": "active",
+      "note": "2_months | devices: 43"
+    },
+    "32MMVANLDLVFEVGF": {
+      "max_devices": 31,
+      "expiry_date": "2026-07-03",
+      "status": "active",
+      "note": "2_months | devices: 31"
+    },
+    "H8JXVNH67RMGM07H": {
+      "max_devices": 8,
+      "expiry_date": "2026-07-03",
+      "status": "active",
+      "note": "2_months | devices: 8"
+    },
+    "EVJY0A0U8RKBSVH8": {
+      "max_devices": 37,
+      "expiry_date": "2026-07-03",
+      "status": "active",
+      "note": "2_months | devices: 37"
+    },
+    "MF0Q9GD9ENPNCAM4": {
+      "max_devices": 35,
+      "expiry_date": "2026-07-03",
+      "status": "active",
+      "note": "2_months | devices: 35"
+    },
+    "2SAIYGZQJ62STYKX": {
+      "max_devices": 50,
+      "expiry_date": "2026-07-03",
+      "status": "active",
+      "note": "2_months | devices: 50"
+    },
+    "26BMXQW5XYB915P3": {
+      "max_devices": 64,
+      "expiry_date": "2026-07-03",
+      "status": "active",
+      "note": "2_months | devices: 64"
+    },
+    "BEJFP1XM4F5YFC8Z": {
+      "max_devices": 35,
+      "expiry_date": "2026-07-03",
+      "status": "active",
+      "note": "2_months | devices: 35"
+    }
   }
 }
